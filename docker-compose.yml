@@ -1,0 +1,11 @@
+version: "1"
+services:
+  flaskblog:
+    image: dogukanurker/flaskblog:latest
+    container_name: flaskblog
+    restart: always
+    build: .
+    ports:
+      - 5000:5000
+    volumes:
+      - .:/app

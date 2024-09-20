@@ -1,0 +1,2058 @@
+[02.09.24|09:58:27.752598|UTC]	Starting...
+[02.09.24|09:58:29.111716|UTC]	Werkzeug default logger is disabled
+[02.09.24|09:58:29.135103|UTC]	Custom logger is enabled
+[02.09.24|09:58:29.156910|UTC]	Debug mode: True
+[02.09.24|09:58:29.180057|UTC]	Name: flaskBlog
+[02.09.24|09:58:29.204637|UTC]	Version: 2.0.0
+[02.09.24|09:58:29.226824|UTC]	Host: 172.23.0.2
+[02.09.24|09:58:29.248613|UTC]	Port: 5000
+[02.09.24|09:58:29.281218|UTC]	Secret key: 7KN40OtfSJKaU4etCyBrDBFPJoWEjCC_qI2WT8wNAtU
+[02.09.24|09:58:29.303385|UTC]	Session permanent: True
+[02.09.24|09:58:29.326219|UTC]	Root path: .
+[02.09.24|09:58:29.350141|UTC]	Log folder root: log/
+[02.09.24|09:58:29.372740|UTC]	Log file root: log/log.log
+[02.09.24|09:58:29.394803|UTC]	Log app file root: log/logApp.log
+[02.09.24|09:58:29.417867|UTC]	Log danger file root: log/logDanger.log
+[02.09.24|09:58:29.440166|UTC]	Log success file root: log/logSuccess.log
+[02.09.24|09:58:29.463997|UTC]	Log info file root: log/logInfo.log
+[02.09.24|09:58:29.488858|UTC]	Log warning file root: log/logWarning.log
+[02.09.24|09:58:29.511172|UTC]	Log in: True
+[02.09.24|09:58:29.532948|UTC]	Registration: True
+[02.09.24|09:58:29.556399|UTC]	UI: tailwindUI
+[02.09.24|09:58:29.579361|UTC]	Template folder: templates/tailwindUI
+[02.09.24|09:58:29.602213|UTC]	Static folder: static/tailwindUI
+[02.09.24|09:58:29.626251|UTC]	SMTP server: smtp.gmail.com
+[02.09.24|09:58:29.649967|UTC]	SMTP port: 587
+[02.09.24|09:58:29.672821|UTC]	SMTP mail: sumonpaul267@gmail.com
+[02.09.24|09:58:29.696880|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[02.09.24|09:58:29.719810|UTC]	reCAPTCHA is off
+[02.09.24|09:58:29.743457|UTC]	Default admin is on
+[02.09.24|09:58:29.768129|UTC]	Default admin username: admin
+[02.09.24|09:58:29.790667|UTC]	Default admin email: admin@flaskblog.com
+[02.09.24|09:58:29.813133|UTC]	Default admin password: admin
+[02.09.24|09:58:29.836657|UTC]	Default admin point: 0
+[02.09.24|09:58:29.866037|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[02.09.24|09:58:29.891586|UTC]	Database folder: "/db/" found
+[02.09.24|09:58:29.916445|UTC]	Users database: "db/users.db" found
+[02.09.24|09:58:30.000210|UTC]	Table: "users" found in "db/users.db"
+[02.09.24|09:58:30.024534|UTC]	Posts database: "db/posts.db" found
+[02.09.24|09:58:30.096829|UTC]	Table: "posts" found in "db/posts.db"
+[02.09.24|09:58:30.121414|UTC]	Comments database: "db/comments.db" found
+[02.09.24|09:58:30.191367|UTC]	Table: "comments" found in "db/comments.db"
+[02.09.24|09:58:30.233468|UTC]	Running on http://172.23.0.2:5000
+[02.09.24|09:58:30.713488|UTC]	Starting...
+[02.09.24|09:58:30.822039|UTC]	Werkzeug default logger is disabled
+[02.09.24|09:58:30.847332|UTC]	Custom logger is enabled
+[02.09.24|09:58:30.871325|UTC]	Debug mode: True
+[02.09.24|09:58:30.894089|UTC]	Name: flaskBlog
+[02.09.24|09:58:30.917927|UTC]	Version: 2.0.0
+[02.09.24|09:58:30.940340|UTC]	Host: 172.23.0.2
+[02.09.24|09:58:30.962479|UTC]	Port: 5000
+[02.09.24|09:58:30.993078|UTC]	Secret key: VmS_kUQmfl3VMIXc6Vx_MZ0eVO0eGep_vrAF7FxrX3E
+[02.09.24|09:58:31.016842|UTC]	Session permanent: True
+[02.09.24|09:58:31.039794|UTC]	Root path: .
+[02.09.24|09:58:31.063432|UTC]	Log folder root: log/
+[02.09.24|09:58:31.085893|UTC]	Log file root: log/log.log
+[02.09.24|09:58:31.108646|UTC]	Log app file root: log/logApp.log
+[02.09.24|09:58:31.133230|UTC]	Log danger file root: log/logDanger.log
+[02.09.24|09:58:31.156583|UTC]	Log success file root: log/logSuccess.log
+[02.09.24|09:58:31.178605|UTC]	Log info file root: log/logInfo.log
+[02.09.24|09:58:31.201887|UTC]	Log warning file root: log/logWarning.log
+[02.09.24|09:58:31.224528|UTC]	Log in: True
+[02.09.24|09:58:31.247637|UTC]	Registration: True
+[02.09.24|09:58:31.271668|UTC]	UI: tailwindUI
+[02.09.24|09:58:31.294264|UTC]	Template folder: templates/tailwindUI
+[02.09.24|09:58:31.316600|UTC]	Static folder: static/tailwindUI
+[02.09.24|09:58:31.340690|UTC]	SMTP server: smtp.gmail.com
+[02.09.24|09:58:31.363399|UTC]	SMTP port: 587
+[02.09.24|09:58:31.385911|UTC]	SMTP mail: sumonpaul267@gmail.com
+[02.09.24|09:58:31.410734|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[02.09.24|09:58:31.434516|UTC]	reCAPTCHA is off
+[02.09.24|09:58:31.456656|UTC]	Default admin is on
+[02.09.24|09:58:31.480094|UTC]	Default admin username: admin
+[02.09.24|09:58:31.503086|UTC]	Default admin email: admin@flaskblog.com
+[02.09.24|09:58:31.525727|UTC]	Default admin password: admin
+[02.09.24|09:58:31.549216|UTC]	Default admin point: 0
+[02.09.24|09:58:31.578767|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[02.09.24|09:58:31.603666|UTC]	Database folder: "/db/" found
+[02.09.24|09:58:31.627270|UTC]	Users database: "db/users.db" found
+[02.09.24|09:58:31.697315|UTC]	Table: "users" found in "db/users.db"
+[02.09.24|09:58:31.720760|UTC]	Posts database: "db/posts.db" found
+[02.09.24|09:58:31.789627|UTC]	Table: "posts" found in "db/posts.db"
+[02.09.24|09:58:31.812365|UTC]	Comments database: "db/comments.db" found
+[02.09.24|09:58:31.882029|UTC]	Table: "comments" found in "db/comments.db"
+[02.09.24|09:58:31.923494|UTC]	Running on http://172.23.0.2:5000
+[03.09.24|06:19:12.039318|UTC]	Starting...
+[03.09.24|06:19:12.271071|UTC]	Werkzeug default logger is disabled
+[03.09.24|06:19:12.303133|UTC]	Custom logger is enabled
+[03.09.24|06:19:12.335563|UTC]	Debug mode: True
+[03.09.24|06:19:12.363380|UTC]	Name: flaskBlog
+[03.09.24|06:19:12.395605|UTC]	Version: 2.0.0
+[03.09.24|06:19:12.426563|UTC]	Host: 172.23.0.2
+[03.09.24|06:19:12.458648|UTC]	Port: 5000
+[03.09.24|06:19:12.491667|UTC]	Secret key: EIrQqNCgahvMXOH3RZzRea0-g2bHGq8SfxCXzrWb3fo
+[03.09.24|06:19:12.524737|UTC]	Session permanent: True
+[03.09.24|06:19:12.557081|UTC]	Root path: .
+[03.09.24|06:19:12.590914|UTC]	Log folder root: log/
+[03.09.24|06:19:12.627922|UTC]	Log file root: log/log.log
+[03.09.24|06:19:12.661651|UTC]	Log app file root: log/logApp.log
+[03.09.24|06:19:12.693952|UTC]	Log danger file root: log/logDanger.log
+[03.09.24|06:19:12.716603|UTC]	Log success file root: log/logSuccess.log
+[03.09.24|06:19:12.748683|UTC]	Log info file root: log/logInfo.log
+[03.09.24|06:19:12.780899|UTC]	Log warning file root: log/logWarning.log
+[03.09.24|06:19:12.814774|UTC]	Log in: True
+[03.09.24|06:19:12.837696|UTC]	Registration: True
+[03.09.24|06:19:12.870496|UTC]	UI: tailwindUI
+[03.09.24|06:19:12.904155|UTC]	Template folder: templates/tailwindUI
+[03.09.24|06:19:12.935602|UTC]	Static folder: static/tailwindUI
+[03.09.24|06:19:12.968295|UTC]	SMTP server: smtp.gmail.com
+[03.09.24|06:19:13.001633|UTC]	SMTP port: 587
+[03.09.24|06:19:13.036018|UTC]	SMTP mail: sumonpaul267@gmail.com
+[03.09.24|06:19:13.078904|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[03.09.24|06:19:13.119195|UTC]	reCAPTCHA is off
+[03.09.24|06:19:13.149349|UTC]	Default admin is on
+[03.09.24|06:19:13.172242|UTC]	Default admin username: admin
+[03.09.24|06:19:13.193998|UTC]	Default admin email: admin@flaskblog.com
+[03.09.24|06:19:13.215573|UTC]	Default admin password: admin
+[03.09.24|06:19:13.239573|UTC]	Default admin point: 0
+[03.09.24|06:19:13.263130|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[03.09.24|06:19:13.287081|UTC]	Database folder: "/db/" found
+[03.09.24|06:19:13.315518|UTC]	Users database: "db/users.db" found
+[03.09.24|06:19:13.414265|UTC]	Table: "users" found in "db/users.db"
+[03.09.24|06:19:13.447084|UTC]	Posts database: "db/posts.db" found
+[03.09.24|06:19:13.575715|UTC]	Table: "posts" found in "db/posts.db"
+[03.09.24|06:19:13.618669|UTC]	Comments database: "db/comments.db" found
+[03.09.24|06:19:13.779159|UTC]	Table: "comments" found in "db/comments.db"
+[03.09.24|06:19:13.836180|UTC]	Running on http://172.23.0.2:5000
+[03.09.24|06:19:14.468384|UTC]	Starting...
+[03.09.24|06:19:14.710366|UTC]	Werkzeug default logger is disabled
+[03.09.24|06:19:14.764094|UTC]	Custom logger is enabled
+[03.09.24|06:19:14.814807|UTC]	Debug mode: True
+[03.09.24|06:19:14.945120|UTC]	Name: flaskBlog
+[03.09.24|06:19:15.489811|UTC]	Version: 2.0.0
+[03.09.24|06:19:15.634054|UTC]	Host: 172.23.0.2
+[03.09.24|06:19:15.677188|UTC]	Port: 5000
+[03.09.24|06:19:15.730755|UTC]	Secret key: DGWtiSICCjlIiadj_jgSQBfOayKtFnmpRkAhZ5Rt0RE
+[03.09.24|06:19:15.773702|UTC]	Session permanent: True
+[03.09.24|06:19:15.816484|UTC]	Root path: .
+[03.09.24|06:19:15.870171|UTC]	Log folder root: log/
+[03.09.24|06:19:15.923124|UTC]	Log file root: log/log.log
+[03.09.24|06:19:15.976864|UTC]	Log app file root: log/logApp.log
+[03.09.24|06:19:16.025258|UTC]	Log danger file root: log/logDanger.log
+[03.09.24|06:19:16.073374|UTC]	Log success file root: log/logSuccess.log
+[03.09.24|06:19:16.119852|UTC]	Log info file root: log/logInfo.log
+[03.09.24|06:19:16.154185|UTC]	Log warning file root: log/logWarning.log
+[03.09.24|06:19:16.198798|UTC]	Log in: True
+[03.09.24|06:19:16.237886|UTC]	Registration: True
+[03.09.24|06:19:16.271752|UTC]	UI: tailwindUI
+[03.09.24|06:19:16.304398|UTC]	Template folder: templates/tailwindUI
+[03.09.24|06:19:16.336221|UTC]	Static folder: static/tailwindUI
+[03.09.24|06:19:16.368836|UTC]	SMTP server: smtp.gmail.com
+[03.09.24|06:19:16.404522|UTC]	SMTP port: 587
+[03.09.24|06:19:16.442260|UTC]	SMTP mail: sumonpaul267@gmail.com
+[03.09.24|06:19:16.483549|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[03.09.24|06:19:16.524730|UTC]	reCAPTCHA is off
+[03.09.24|06:19:16.568956|UTC]	Default admin is on
+[03.09.24|06:19:16.610361|UTC]	Default admin username: admin
+[03.09.24|06:19:16.655881|UTC]	Default admin email: admin@flaskblog.com
+[03.09.24|06:19:16.694341|UTC]	Default admin password: admin
+[03.09.24|06:19:16.738233|UTC]	Default admin point: 0
+[03.09.24|06:19:16.772857|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[03.09.24|06:19:16.805577|UTC]	Database folder: "/db/" found
+[03.09.24|06:19:16.850837|UTC]	Users database: "db/users.db" found
+[03.09.24|06:19:16.976583|UTC]	Table: "users" found in "db/users.db"
+[03.09.24|06:19:17.024928|UTC]	Posts database: "db/posts.db" found
+[03.09.24|06:19:17.163807|UTC]	Table: "posts" found in "db/posts.db"
+[03.09.24|06:19:17.210342|UTC]	Comments database: "db/comments.db" found
+[03.09.24|06:19:17.334461|UTC]	Table: "comments" found in "db/comments.db"
+[03.09.24|06:19:17.384619|UTC]	Running on http://172.23.0.2:5000
+[07.09.24|19:04:39.547297|UTC]	Starting...
+[07.09.24|19:04:39.783661|UTC]	Werkzeug default logger is disabled
+[07.09.24|19:04:39.816873|UTC]	Custom logger is enabled
+[07.09.24|19:04:39.848067|UTC]	Debug mode: True
+[07.09.24|19:04:39.880723|UTC]	Name: flaskBlog
+[07.09.24|19:04:39.914688|UTC]	Version: 2.0.0
+[07.09.24|19:04:39.941237|UTC]	Host: 172.23.0.2
+[07.09.24|19:04:39.973151|UTC]	Port: 5000
+[07.09.24|19:04:40.004038|UTC]	Secret key: xZEgkHNtmoDv7QLfCLBKVsLnaP1-qAma1AuBNzcbxJ4
+[07.09.24|19:04:40.045297|UTC]	Session permanent: True
+[07.09.24|19:04:40.079577|UTC]	Root path: .
+[07.09.24|19:04:40.114178|UTC]	Log folder root: log/
+[07.09.24|19:04:40.146650|UTC]	Log file root: log/log.log
+[07.09.24|19:04:40.174160|UTC]	Log app file root: log/logApp.log
+[07.09.24|19:04:40.207063|UTC]	Log danger file root: log/logDanger.log
+[07.09.24|19:04:40.239578|UTC]	Log success file root: log/logSuccess.log
+[07.09.24|19:04:40.273773|UTC]	Log info file root: log/logInfo.log
+[07.09.24|19:04:40.307172|UTC]	Log warning file root: log/logWarning.log
+[07.09.24|19:04:40.335509|UTC]	Log in: True
+[07.09.24|19:04:40.368477|UTC]	Registration: True
+[07.09.24|19:04:40.401495|UTC]	UI: tailwindUI
+[07.09.24|19:04:40.437270|UTC]	Template folder: templates/tailwindUI
+[07.09.24|19:04:40.470065|UTC]	Static folder: static/tailwindUI
+[07.09.24|19:04:40.511553|UTC]	SMTP server: smtp.gmail.com
+[07.09.24|19:04:40.556676|UTC]	SMTP port: 587
+[07.09.24|19:04:40.589158|UTC]	SMTP mail: sumonpaul267@gmail.com
+[07.09.24|19:04:40.617750|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[07.09.24|19:04:40.644043|UTC]	reCAPTCHA is off
+[07.09.24|19:04:40.676714|UTC]	Default admin is on
+[07.09.24|19:04:40.711167|UTC]	Default admin username: admin
+[07.09.24|19:04:40.742687|UTC]	Default admin email: admin@flaskblog.com
+[07.09.24|19:04:40.776711|UTC]	Default admin password: admin
+[07.09.24|19:04:40.804080|UTC]	Default admin point: 0
+[07.09.24|19:04:40.828380|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[07.09.24|19:04:40.859581|UTC]	Database folder: "/db/" found
+[07.09.24|19:04:40.893016|UTC]	Users database: "db/users.db" found
+[07.09.24|19:04:41.002065|UTC]	Table: "users" found in "db/users.db"
+[07.09.24|19:04:41.034460|UTC]	Posts database: "db/posts.db" found
+[07.09.24|19:04:41.133275|UTC]	Table: "posts" found in "db/posts.db"
+[07.09.24|19:04:41.168854|UTC]	Comments database: "db/comments.db" found
+[07.09.24|19:04:41.298610|UTC]	Table: "comments" found in "db/comments.db"
+[07.09.24|19:04:41.393324|UTC]	Running on http://172.23.0.2:5000
+[07.09.24|19:04:42.046960|UTC]	Starting...
+[07.09.24|19:04:42.299331|UTC]	Werkzeug default logger is disabled
+[07.09.24|19:04:42.352809|UTC]	Custom logger is enabled
+[07.09.24|19:04:42.401189|UTC]	Debug mode: True
+[07.09.24|19:04:42.454500|UTC]	Name: flaskBlog
+[07.09.24|19:04:42.502905|UTC]	Version: 2.0.0
+[07.09.24|19:04:42.550951|UTC]	Host: 172.23.0.2
+[07.09.24|19:04:42.593985|UTC]	Port: 5000
+[07.09.24|19:04:42.641986|UTC]	Secret key: qKIr_mGFgj2itl5qQHcWAI7CG5dLG9APHb1wQGtHfcA
+[07.09.24|19:04:42.690277|UTC]	Session permanent: True
+[07.09.24|19:04:42.731411|UTC]	Root path: .
+[07.09.24|19:04:43.202568|UTC]	Log folder root: log/
+[07.09.24|19:04:43.405695|UTC]	Log file root: log/log.log
+[07.09.24|19:04:43.448379|UTC]	Log app file root: log/logApp.log
+[07.09.24|19:04:43.491364|UTC]	Log danger file root: log/logDanger.log
+[07.09.24|19:04:43.542192|UTC]	Log success file root: log/logSuccess.log
+[07.09.24|19:04:43.592874|UTC]	Log info file root: log/logInfo.log
+[07.09.24|19:04:43.635879|UTC]	Log warning file root: log/logWarning.log
+[07.09.24|19:04:43.678506|UTC]	Log in: True
+[07.09.24|19:04:43.726885|UTC]	Registration: True
+[07.09.24|19:04:43.769491|UTC]	UI: tailwindUI
+[07.09.24|19:04:43.812615|UTC]	Template folder: templates/tailwindUI
+[07.09.24|19:04:43.860620|UTC]	Static folder: static/tailwindUI
+[07.09.24|19:04:43.903685|UTC]	SMTP server: smtp.gmail.com
+[07.09.24|19:04:43.946382|UTC]	SMTP port: 587
+[07.09.24|19:04:43.994811|UTC]	SMTP mail: sumonpaul267@gmail.com
+[07.09.24|19:04:44.035748|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[07.09.24|19:04:44.067771|UTC]	reCAPTCHA is off
+[07.09.24|19:04:44.111022|UTC]	Default admin is on
+[07.09.24|19:04:44.153682|UTC]	Default admin username: admin
+[07.09.24|19:04:44.193244|UTC]	Default admin email: admin@flaskblog.com
+[07.09.24|19:04:44.227309|UTC]	Default admin password: admin
+[07.09.24|19:04:44.263422|UTC]	Default admin point: 0
+[07.09.24|19:04:44.312421|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[07.09.24|19:04:44.353566|UTC]	Database folder: "/db/" found
+[07.09.24|19:04:44.384068|UTC]	Users database: "db/users.db" found
+[07.09.24|19:04:44.503256|UTC]	Table: "users" found in "db/users.db"
+[07.09.24|19:04:44.549991|UTC]	Posts database: "db/posts.db" found
+[07.09.24|19:04:44.678053|UTC]	Table: "posts" found in "db/posts.db"
+[07.09.24|19:04:44.703108|UTC]	Comments database: "db/comments.db" found
+[07.09.24|19:04:44.807023|UTC]	Table: "comments" found in "db/comments.db"
+[07.09.24|19:04:44.880100|UTC]	Running on http://172.23.0.2:5000
+[08.09.24|13:55:55.694993|UTC]	Starting...
+[08.09.24|13:55:55.836119|UTC]	Werkzeug default logger is disabled
+[08.09.24|13:55:55.859069|UTC]	Custom logger is enabled
+[08.09.24|13:55:55.881399|UTC]	Debug mode: True
+[08.09.24|13:55:55.904622|UTC]	Name: flaskBlog
+[08.09.24|13:55:55.928002|UTC]	Version: 2.0.0
+[08.09.24|13:55:55.959174|UTC]	Host: 172.23.0.2
+[08.09.24|13:55:55.983574|UTC]	Port: 5000
+[08.09.24|13:55:56.005859|UTC]	Secret key: E4iEwEEnWV-H5-CtHWfR1QiQrESBCTy86BrW6frzhhU
+[08.09.24|13:55:56.028260|UTC]	Session permanent: True
+[08.09.24|13:55:56.051114|UTC]	Root path: .
+[08.09.24|13:55:56.075098|UTC]	Log folder root: log/
+[08.09.24|13:55:56.098034|UTC]	Log file root: log/log.log
+[08.09.24|13:55:56.120841|UTC]	Log app file root: log/logApp.log
+[08.09.24|13:55:56.142343|UTC]	Log danger file root: log/logDanger.log
+[08.09.24|13:55:56.163650|UTC]	Log success file root: log/logSuccess.log
+[08.09.24|13:55:56.186601|UTC]	Log info file root: log/logInfo.log
+[08.09.24|13:55:56.208760|UTC]	Log warning file root: log/logWarning.log
+[08.09.24|13:55:56.230900|UTC]	Log in: True
+[08.09.24|13:55:56.253994|UTC]	Registration: True
+[08.09.24|13:55:56.276441|UTC]	UI: tailwindUI
+[08.09.24|13:55:56.299215|UTC]	Template folder: templates/tailwindUI
+[08.09.24|13:55:56.322296|UTC]	Static folder: static/tailwindUI
+[08.09.24|13:55:56.346550|UTC]	SMTP server: smtp.gmail.com
+[08.09.24|13:55:56.369224|UTC]	SMTP port: 587
+[08.09.24|13:55:56.392399|UTC]	SMTP mail: sumonpaul267@gmail.com
+[08.09.24|13:55:56.414225|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[08.09.24|13:55:56.435883|UTC]	reCAPTCHA is off
+[08.09.24|13:55:56.459142|UTC]	Default admin is on
+[08.09.24|13:55:56.481130|UTC]	Default admin username: admin
+[08.09.24|13:55:56.502856|UTC]	Default admin email: admin@flaskblog.com
+[08.09.24|13:55:56.532087|UTC]	Default admin password: admin
+[08.09.24|13:55:56.556668|UTC]	Default admin point: 0
+[08.09.24|13:55:56.579567|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[08.09.24|13:55:56.603297|UTC]	Database folder: "/db/" found
+[08.09.24|13:55:56.634194|UTC]	Users database: "db/users.db" found
+[08.09.24|13:55:56.711591|UTC]	Table: "users" found in "db/users.db"
+[08.09.24|13:55:56.734676|UTC]	Posts database: "db/posts.db" found
+[08.09.24|13:55:56.809182|UTC]	Table: "posts" found in "db/posts.db"
+[08.09.24|13:55:56.834327|UTC]	Comments database: "db/comments.db" found
+[08.09.24|13:55:56.909359|UTC]	Table: "comments" found in "db/comments.db"
+[08.09.24|13:55:56.952763|UTC]	Running on http://172.23.0.2:5000
+[08.09.24|13:55:57.333627|UTC]	Starting...
+[08.09.24|13:55:57.389118|UTC]	Werkzeug default logger is disabled
+[08.09.24|13:55:57.412600|UTC]	Custom logger is enabled
+[08.09.24|13:55:57.436152|UTC]	Debug mode: True
+[08.09.24|13:55:57.459151|UTC]	Name: flaskBlog
+[08.09.24|13:55:57.482467|UTC]	Version: 2.0.0
+[08.09.24|13:55:57.505703|UTC]	Host: 172.23.0.2
+[08.09.24|13:55:57.536437|UTC]	Port: 5000
+[08.09.24|13:55:57.561344|UTC]	Secret key: v13nSyf7M9g4jYGNaW9ydRJmBnvvSo_8yGu6dHyDoAU
+[08.09.24|13:55:57.585168|UTC]	Session permanent: True
+[08.09.24|13:55:57.607953|UTC]	Root path: .
+[08.09.24|13:55:57.631898|UTC]	Log folder root: log/
+[08.09.24|13:55:57.654405|UTC]	Log file root: log/log.log
+[08.09.24|13:55:57.676975|UTC]	Log app file root: log/logApp.log
+[08.09.24|13:55:57.700349|UTC]	Log danger file root: log/logDanger.log
+[08.09.24|13:55:57.722108|UTC]	Log success file root: log/logSuccess.log
+[08.09.24|13:55:57.743841|UTC]	Log info file root: log/logInfo.log
+[08.09.24|13:55:57.766719|UTC]	Log warning file root: log/logWarning.log
+[08.09.24|13:55:57.788406|UTC]	Log in: True
+[08.09.24|13:55:57.810197|UTC]	Registration: True
+[08.09.24|13:55:57.833403|UTC]	UI: tailwindUI
+[08.09.24|13:55:57.856274|UTC]	Template folder: templates/tailwindUI
+[08.09.24|13:55:57.879370|UTC]	Static folder: static/tailwindUI
+[08.09.24|13:55:57.902593|UTC]	SMTP server: smtp.gmail.com
+[08.09.24|13:55:57.924930|UTC]	SMTP port: 587
+[08.09.24|13:55:57.947422|UTC]	SMTP mail: sumonpaul267@gmail.com
+[08.09.24|13:55:57.970789|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[08.09.24|13:55:57.993054|UTC]	reCAPTCHA is off
+[08.09.24|13:55:58.015351|UTC]	Default admin is on
+[08.09.24|13:55:58.038446|UTC]	Default admin username: admin
+[08.09.24|13:55:58.061310|UTC]	Default admin email: admin@flaskblog.com
+[08.09.24|13:55:58.084138|UTC]	Default admin password: admin
+[08.09.24|13:55:58.107937|UTC]	Default admin point: 0
+[08.09.24|13:55:58.139455|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[08.09.24|13:55:58.163885|UTC]	Database folder: "/db/" found
+[08.09.24|13:55:58.187775|UTC]	Users database: "db/users.db" found
+[08.09.24|13:55:58.256490|UTC]	Table: "users" found in "db/users.db"
+[08.09.24|13:55:58.278950|UTC]	Posts database: "db/posts.db" found
+[08.09.24|13:55:58.347660|UTC]	Table: "posts" found in "db/posts.db"
+[08.09.24|13:55:58.370364|UTC]	Comments database: "db/comments.db" found
+[08.09.24|13:55:58.439641|UTC]	Table: "comments" found in "db/comments.db"
+[08.09.24|13:55:58.480613|UTC]	Running on http://172.23.0.2:5000
+[08.09.24|14:00:10.090568|UTC]	Starting...
+[08.09.24|14:00:10.235600|UTC]	Werkzeug default logger is disabled
+[08.09.24|14:00:10.270595|UTC]	Custom logger is enabled
+[08.09.24|14:00:10.306162|UTC]	Debug mode: True
+[08.09.24|14:00:10.331448|UTC]	Name: flaskBlog
+[08.09.24|14:00:10.372397|UTC]	Version: 2.0.0
+[08.09.24|14:00:10.412512|UTC]	Host: 172.23.0.2
+[08.09.24|14:00:10.448861|UTC]	Port: 5000
+[08.09.24|14:00:10.494251|UTC]	Secret key: 2W9VMj6v7agYIjIBAqjmQDp0c_hBKd-GnvGeTy0U9Vk
+[08.09.24|14:00:10.521277|UTC]	Session permanent: True
+[08.09.24|14:00:10.554308|UTC]	Root path: .
+[08.09.24|14:00:10.586526|UTC]	Log folder root: log/
+[08.09.24|14:00:10.615077|UTC]	Log file root: log/log.log
+[08.09.24|14:00:10.647178|UTC]	Log app file root: log/logApp.log
+[08.09.24|14:00:10.680892|UTC]	Log danger file root: log/logDanger.log
+[08.09.24|14:00:10.713675|UTC]	Log success file root: log/logSuccess.log
+[08.09.24|14:00:10.748093|UTC]	Log info file root: log/logInfo.log
+[08.09.24|14:00:10.779768|UTC]	Log warning file root: log/logWarning.log
+[08.09.24|14:00:10.812579|UTC]	Log in: True
+[08.09.24|14:00:10.845986|UTC]	Registration: True
+[08.09.24|14:00:10.877068|UTC]	UI: tailwindUI
+[08.09.24|14:00:10.917593|UTC]	Template folder: templates/tailwindUI
+[08.09.24|14:00:10.952506|UTC]	Static folder: static/tailwindUI
+[08.09.24|14:00:10.983860|UTC]	SMTP server: smtp.gmail.com
+[08.09.24|14:00:11.017428|UTC]	SMTP port: 587
+[08.09.24|14:00:11.040491|UTC]	SMTP mail: sumonpaul267@gmail.com
+[08.09.24|14:00:11.073012|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[08.09.24|14:00:11.105925|UTC]	reCAPTCHA is off
+[08.09.24|14:00:11.137347|UTC]	Default admin is on
+[08.09.24|14:00:11.170705|UTC]	Default admin username: admin
+[08.09.24|14:00:11.205816|UTC]	Default admin email: admin@flaskblog.com
+[08.09.24|14:00:11.237967|UTC]	Default admin password: admin
+[08.09.24|14:00:11.270324|UTC]	Default admin point: 0
+[08.09.24|14:00:11.303598|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[08.09.24|14:00:11.341807|UTC]	Database folder: "/db/" found
+[08.09.24|14:00:11.375646|UTC]	Users database: "db/users.db" found
+[08.09.24|14:00:11.477336|UTC]	Table: "users" found in "db/users.db"
+[08.09.24|14:00:11.512034|UTC]	Posts database: "db/posts.db" found
+[08.09.24|14:00:11.607000|UTC]	Table: "posts" found in "db/posts.db"
+[08.09.24|14:00:11.640591|UTC]	Comments database: "db/comments.db" found
+[08.09.24|14:00:11.746994|UTC]	Table: "comments" found in "db/comments.db"
+[08.09.24|14:00:11.792812|UTC]	Running on http://172.23.0.2:5000
+[08.09.24|14:00:12.405318|UTC]	Starting...
+[08.09.24|14:00:12.615509|UTC]	Werkzeug default logger is disabled
+[08.09.24|14:00:12.653183|UTC]	Custom logger is enabled
+[08.09.24|14:00:12.685529|UTC]	Debug mode: True
+[08.09.24|14:00:12.728196|UTC]	Name: flaskBlog
+[08.09.24|14:00:12.765862|UTC]	Version: 2.0.0
+[08.09.24|14:00:12.808651|UTC]	Host: 172.23.0.2
+[08.09.24|14:00:12.851721|UTC]	Port: 5000
+[08.09.24|14:00:12.899886|UTC]	Secret key: vFoYu1NaHHgOK3lCtvn3aiHPx-qnezezaoajg_zYbfc
+[08.09.24|14:00:12.942927|UTC]	Session permanent: True
+[08.09.24|14:00:12.985541|UTC]	Root path: .
+[08.09.24|14:00:13.033959|UTC]	Log folder root: log/
+[08.09.24|14:00:13.081252|UTC]	Log file root: log/log.log
+[08.09.24|14:00:13.485489|UTC]	Log app file root: log/logApp.log
+[08.09.24|14:00:13.750128|UTC]	Log danger file root: log/logDanger.log
+[08.09.24|14:00:13.795383|UTC]	Log success file root: log/logSuccess.log
+[08.09.24|14:00:13.846646|UTC]	Log info file root: log/logInfo.log
+[08.09.24|14:00:13.897329|UTC]	Log warning file root: log/logWarning.log
+[08.09.24|14:00:13.943621|UTC]	Log in: True
+[08.09.24|14:00:13.988351|UTC]	Registration: True
+[08.09.24|14:00:14.036348|UTC]	UI: tailwindUI
+[08.09.24|14:00:14.079383|UTC]	Template folder: templates/tailwindUI
+[08.09.24|14:00:14.122021|UTC]	Static folder: static/tailwindUI
+[08.09.24|14:00:14.170469|UTC]	SMTP server: smtp.gmail.com
+[08.09.24|14:00:14.223908|UTC]	SMTP port: 587
+[08.09.24|14:00:14.266922|UTC]	SMTP mail: sumonpaul267@gmail.com
+[08.09.24|14:00:14.314915|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[08.09.24|14:00:14.357937|UTC]	reCAPTCHA is off
+[08.09.24|14:00:14.403559|UTC]	Default admin is on
+[08.09.24|14:00:14.440013|UTC]	Default admin username: admin
+[08.09.24|14:00:14.471093|UTC]	Default admin email: admin@flaskblog.com
+[08.09.24|14:00:14.520574|UTC]	Default admin password: admin
+[08.09.24|14:00:14.557429|UTC]	Default admin point: 0
+[08.09.24|14:00:14.589227|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[08.09.24|14:00:14.642255|UTC]	Database folder: "/db/" found
+[08.09.24|14:00:14.684632|UTC]	Users database: "db/users.db" found
+[08.09.24|14:00:14.831273|UTC]	Table: "users" found in "db/users.db"
+[08.09.24|14:00:14.872282|UTC]	Posts database: "db/posts.db" found
+[08.09.24|14:00:14.971679|UTC]	Table: "posts" found in "db/posts.db"
+[08.09.24|14:00:15.007675|UTC]	Comments database: "db/comments.db" found
+[08.09.24|14:00:15.123734|UTC]	Table: "comments" found in "db/comments.db"
+[08.09.24|14:00:15.194772|UTC]	Running on http://172.23.0.2:5000
+[09.09.24|14:00:31.270809|UTC]	Starting...
+[09.09.24|14:00:31.414585|UTC]	Werkzeug default logger is disabled
+[09.09.24|14:00:31.438374|UTC]	Custom logger is enabled
+[09.09.24|14:00:31.460885|UTC]	Debug mode: True
+[09.09.24|14:00:31.483204|UTC]	Name: flaskBlog
+[09.09.24|14:00:31.506398|UTC]	Version: 2.0.0
+[09.09.24|14:00:31.528708|UTC]	Host: 172.23.0.2
+[09.09.24|14:00:31.551156|UTC]	Port: 5000
+[09.09.24|14:00:31.573998|UTC]	Secret key: hDPVN2ISVJZ1FQLxIBxmWCjBsgSUDOR8mMcMVzYl0xA
+[09.09.24|14:00:31.597825|UTC]	Session permanent: True
+[09.09.24|14:00:31.620923|UTC]	Root path: .
+[09.09.24|14:00:31.644906|UTC]	Log folder root: log/
+[09.09.24|14:00:31.668203|UTC]	Log file root: log/log.log
+[09.09.24|14:00:31.700304|UTC]	Log app file root: log/logApp.log
+[09.09.24|14:00:31.725425|UTC]	Log danger file root: log/logDanger.log
+[09.09.24|14:00:31.747723|UTC]	Log success file root: log/logSuccess.log
+[09.09.24|14:00:31.769861|UTC]	Log info file root: log/logInfo.log
+[09.09.24|14:00:31.793606|UTC]	Log warning file root: log/logWarning.log
+[09.09.24|14:00:31.816256|UTC]	Log in: True
+[09.09.24|14:00:31.839058|UTC]	Registration: True
+[09.09.24|14:00:31.862825|UTC]	UI: tailwindUI
+[09.09.24|14:00:31.885491|UTC]	Template folder: templates/tailwindUI
+[09.09.24|14:00:31.907844|UTC]	Static folder: static/tailwindUI
+[09.09.24|14:00:31.931994|UTC]	SMTP server: smtp.gmail.com
+[09.09.24|14:00:31.956163|UTC]	SMTP port: 587
+[09.09.24|14:00:31.979397|UTC]	SMTP mail: sumonpaul267@gmail.com
+[09.09.24|14:00:32.002788|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[09.09.24|14:00:32.024921|UTC]	reCAPTCHA is off
+[09.09.24|14:00:32.046935|UTC]	Default admin is on
+[09.09.24|14:00:32.070089|UTC]	Default admin username: admin
+[09.09.24|14:00:32.092185|UTC]	Default admin email: admin@flaskblog.com
+[09.09.24|14:00:32.114179|UTC]	Default admin password: admin
+[09.09.24|14:00:32.137371|UTC]	Default admin point: 0
+[09.09.24|14:00:32.159305|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[09.09.24|14:00:32.181382|UTC]	Database folder: "/db/" found
+[09.09.24|14:00:32.206037|UTC]	Users database: "db/users.db" found
+[09.09.24|14:00:32.292024|UTC]	Table: "users" found in "db/users.db"
+[09.09.24|14:00:32.325915|UTC]	Posts database: "db/posts.db" found
+[09.09.24|14:00:32.401724|UTC]	Table: "posts" found in "db/posts.db"
+[09.09.24|14:00:32.426295|UTC]	Comments database: "db/comments.db" found
+[09.09.24|14:00:32.501734|UTC]	Table: "comments" found in "db/comments.db"
+[09.09.24|14:00:32.545564|UTC]	Running on http://172.23.0.2:5000
+[09.09.24|14:00:32.938368|UTC]	Starting...
+[09.09.24|14:00:32.993105|UTC]	Werkzeug default logger is disabled
+[09.09.24|14:00:33.015541|UTC]	Custom logger is enabled
+[09.09.24|14:00:33.039050|UTC]	Debug mode: True
+[09.09.24|14:00:33.061615|UTC]	Name: flaskBlog
+[09.09.24|14:00:33.084288|UTC]	Version: 2.0.0
+[09.09.24|14:00:33.107792|UTC]	Host: 172.23.0.2
+[09.09.24|14:00:33.129783|UTC]	Port: 5000
+[09.09.24|14:00:33.151815|UTC]	Secret key: WjDh4Xqh8PHZm3-xtubZ0OyVbP9hSXjwkdd4GhZ_ye0
+[09.09.24|14:00:33.174655|UTC]	Session permanent: True
+[09.09.24|14:00:33.196337|UTC]	Root path: .
+[09.09.24|14:00:33.220317|UTC]	Log folder root: log/
+[09.09.24|14:00:33.243469|UTC]	Log file root: log/log.log
+[09.09.24|14:00:33.265247|UTC]	Log app file root: log/logApp.log
+[09.09.24|14:00:33.295633|UTC]	Log danger file root: log/logDanger.log
+[09.09.24|14:00:33.320703|UTC]	Log success file root: log/logSuccess.log
+[09.09.24|14:00:33.343444|UTC]	Log info file root: log/logInfo.log
+[09.09.24|14:00:33.365911|UTC]	Log warning file root: log/logWarning.log
+[09.09.24|14:00:33.389806|UTC]	Log in: True
+[09.09.24|14:00:33.412765|UTC]	Registration: True
+[09.09.24|14:00:33.434911|UTC]	UI: tailwindUI
+[09.09.24|14:00:33.459314|UTC]	Template folder: templates/tailwindUI
+[09.09.24|14:00:33.481582|UTC]	Static folder: static/tailwindUI
+[09.09.24|14:00:33.506512|UTC]	SMTP server: smtp.gmail.com
+[09.09.24|14:00:33.530763|UTC]	SMTP port: 587
+[09.09.24|14:00:33.553319|UTC]	SMTP mail: sumonpaul267@gmail.com
+[09.09.24|14:00:33.575953|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[09.09.24|14:00:33.599598|UTC]	reCAPTCHA is off
+[09.09.24|14:00:33.622417|UTC]	Default admin is on
+[09.09.24|14:00:33.645447|UTC]	Default admin username: admin
+[09.09.24|14:00:33.669079|UTC]	Default admin email: admin@flaskblog.com
+[09.09.24|14:00:33.691731|UTC]	Default admin password: admin
+[09.09.24|14:00:33.714333|UTC]	Default admin point: 0
+[09.09.24|14:00:33.738170|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[09.09.24|14:00:33.760929|UTC]	Database folder: "/db/" found
+[09.09.24|14:00:33.785506|UTC]	Users database: "db/users.db" found
+[09.09.24|14:00:33.855418|UTC]	Table: "users" found in "db/users.db"
+[09.09.24|14:00:33.886564|UTC]	Posts database: "db/posts.db" found
+[09.09.24|14:00:33.957871|UTC]	Table: "posts" found in "db/posts.db"
+[09.09.24|14:00:33.980936|UTC]	Comments database: "db/comments.db" found
+[09.09.24|14:00:34.050694|UTC]	Table: "comments" found in "db/comments.db"
+[09.09.24|14:00:34.092895|UTC]	Running on http://172.23.0.2:5000
+[10.09.24|09:26:36.204625|UTC]	Starting...
+[10.09.24|09:26:36.436243|UTC]	Werkzeug default logger is disabled
+[10.09.24|09:26:36.481841|UTC]	Custom logger is enabled
+[10.09.24|09:26:36.516298|UTC]	Debug mode: True
+[10.09.24|09:26:36.549046|UTC]	Name: flaskBlog
+[10.09.24|09:26:36.583372|UTC]	Version: 2.0.0
+[10.09.24|09:26:36.618789|UTC]	Host: 172.23.0.2
+[10.09.24|09:26:36.650496|UTC]	Port: 5000
+[10.09.24|09:26:36.673751|UTC]	Secret key: pHxFS4DGQFXbvhtY5dkuu6yiEn_RndmF1p8ZvqE5oZA
+[10.09.24|09:26:36.697668|UTC]	Session permanent: True
+[10.09.24|09:26:36.729539|UTC]	Root path: .
+[10.09.24|09:26:36.770011|UTC]	Log folder root: log/
+[10.09.24|09:26:36.803763|UTC]	Log file root: log/log.log
+[10.09.24|09:26:36.836984|UTC]	Log app file root: log/logApp.log
+[10.09.24|09:26:36.861139|UTC]	Log danger file root: log/logDanger.log
+[10.09.24|09:26:36.892910|UTC]	Log success file root: log/logSuccess.log
+[10.09.24|09:26:36.923984|UTC]	Log info file root: log/logInfo.log
+[10.09.24|09:26:36.956159|UTC]	Log warning file root: log/logWarning.log
+[10.09.24|09:26:36.989744|UTC]	Log in: True
+[10.09.24|09:26:37.021726|UTC]	Registration: True
+[10.09.24|09:26:37.052171|UTC]	UI: tailwindUI
+[10.09.24|09:26:37.088403|UTC]	Template folder: templates/tailwindUI
+[10.09.24|09:26:37.120656|UTC]	Static folder: static/tailwindUI
+[10.09.24|09:26:37.154859|UTC]	SMTP server: smtp.gmail.com
+[10.09.24|09:26:37.189467|UTC]	SMTP port: 587
+[10.09.24|09:26:37.222719|UTC]	SMTP mail: sumonpaul267@gmail.com
+[10.09.24|09:26:37.254515|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[10.09.24|09:26:37.284456|UTC]	reCAPTCHA is off
+[10.09.24|09:26:37.310704|UTC]	Default admin is on
+[10.09.24|09:26:37.342766|UTC]	Default admin username: admin
+[10.09.24|09:26:37.376324|UTC]	Default admin email: admin@flaskblog.com
+[10.09.24|09:26:37.408899|UTC]	Default admin password: admin
+[10.09.24|09:26:37.440660|UTC]	Default admin point: 0
+[10.09.24|09:26:37.472939|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[10.09.24|09:26:37.504226|UTC]	Database folder: "/db/" found
+[10.09.24|09:26:37.537393|UTC]	Users database: "db/users.db" found
+[10.09.24|09:26:37.657393|UTC]	Table: "users" found in "db/users.db"
+[10.09.24|09:26:37.691668|UTC]	Posts database: "db/posts.db" found
+[10.09.24|09:26:37.800977|UTC]	Table: "posts" found in "db/posts.db"
+[10.09.24|09:26:37.834564|UTC]	Comments database: "db/comments.db" found
+[10.09.24|09:26:37.946113|UTC]	Table: "comments" found in "db/comments.db"
+[10.09.24|09:26:38.010962|UTC]	Running on http://172.23.0.2:5000
+[10.09.24|09:26:38.759090|UTC]	Starting...
+[10.09.24|09:26:38.868809|UTC]	Werkzeug default logger is disabled
+[10.09.24|09:26:38.918542|UTC]	Custom logger is enabled
+[10.09.24|09:26:38.956699|UTC]	Debug mode: True
+[10.09.24|09:26:39.000471|UTC]	Name: flaskBlog
+[10.09.24|09:26:39.048471|UTC]	Version: 2.0.0
+[10.09.24|09:26:39.097549|UTC]	Host: 172.23.0.2
+[10.09.24|09:26:39.132587|UTC]	Port: 5000
+[10.09.24|09:26:39.170976|UTC]	Secret key: M1zDmqUl4PtjstJuBjarVewBZZVYgS7TLRlVigoSQW4
+[10.09.24|09:26:39.219754|UTC]	Session permanent: True
+[10.09.24|09:26:39.266002|UTC]	Root path: .
+[10.09.24|09:26:39.315188|UTC]	Log folder root: log/
+[10.09.24|09:26:39.353622|UTC]	Log file root: log/log.log
+[10.09.24|09:26:39.389011|UTC]	Log app file root: log/logApp.log
+[10.09.24|09:26:39.433058|UTC]	Log danger file root: log/logDanger.log
+[10.09.24|09:26:39.467954|UTC]	Log success file root: log/logSuccess.log
+[10.09.24|09:26:39.490764|UTC]	Log info file root: log/logInfo.log
+[10.09.24|09:26:39.518295|UTC]	Log warning file root: log/logWarning.log
+[10.09.24|09:26:39.590310|UTC]	Log in: True
+[10.09.24|09:26:39.639019|UTC]	Registration: True
+[10.09.24|09:26:39.692189|UTC]	UI: tailwindUI
+[10.09.24|09:26:39.740254|UTC]	Template folder: templates/tailwindUI
+[10.09.24|09:26:39.788558|UTC]	Static folder: static/tailwindUI
+[10.09.24|09:26:39.829040|UTC]	SMTP server: smtp.gmail.com
+[10.09.24|09:26:39.868810|UTC]	SMTP port: 587
+[10.09.24|09:26:39.911616|UTC]	SMTP mail: sumonpaul267@gmail.com
+[10.09.24|09:26:39.961894|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[10.09.24|09:26:40.008041|UTC]	reCAPTCHA is off
+[10.09.24|09:26:40.053317|UTC]	Default admin is on
+[10.09.24|09:26:40.094745|UTC]	Default admin username: admin
+[10.09.24|09:26:40.579744|UTC]	Default admin email: admin@flaskblog.com
+[10.09.24|09:26:40.755965|UTC]	Default admin password: admin
+[10.09.24|09:26:40.809091|UTC]	Default admin point: 0
+[10.09.24|09:26:40.857240|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[10.09.24|09:26:40.900294|UTC]	Database folder: "/db/" found
+[10.09.24|09:26:40.948219|UTC]	Users database: "db/users.db" found
+[10.09.24|09:26:41.087689|UTC]	Table: "users" found in "db/users.db"
+[10.09.24|09:26:41.137241|UTC]	Posts database: "db/posts.db" found
+[10.09.24|09:26:41.280505|UTC]	Table: "posts" found in "db/posts.db"
+[10.09.24|09:26:41.323247|UTC]	Comments database: "db/comments.db" found
+[10.09.24|09:26:41.441379|UTC]	Table: "comments" found in "db/comments.db"
+[10.09.24|09:26:41.508986|UTC]	Running on http://172.23.0.2:5000
+[10.09.24|16:14:50.545901|UTC]	Starting...
+[10.09.24|16:14:50.706938|UTC]	Werkzeug default logger is disabled
+[10.09.24|16:14:50.729810|UTC]	Custom logger is enabled
+[10.09.24|16:14:50.752765|UTC]	Debug mode: True
+[10.09.24|16:14:50.777017|UTC]	Name: flaskBlog
+[10.09.24|16:14:50.800286|UTC]	Version: 2.0.0
+[10.09.24|16:14:50.825447|UTC]	Host: 172.23.0.2
+[10.09.24|16:14:50.849285|UTC]	Port: 5000
+[10.09.24|16:14:50.872489|UTC]	Secret key: wNh77mCe-wG643ddPcvZZkr-IF7XY5tqqR3RXoLq5Hc
+[10.09.24|16:14:50.902963|UTC]	Session permanent: True
+[10.09.24|16:14:50.929066|UTC]	Root path: .
+[10.09.24|16:14:50.951479|UTC]	Log folder root: log/
+[10.09.24|16:14:50.974282|UTC]	Log file root: log/log.log
+[10.09.24|16:14:50.998273|UTC]	Log app file root: log/logApp.log
+[10.09.24|16:14:51.021342|UTC]	Log danger file root: log/logDanger.log
+[10.09.24|16:14:51.044228|UTC]	Log success file root: log/logSuccess.log
+[10.09.24|16:14:51.068757|UTC]	Log info file root: log/logInfo.log
+[10.09.24|16:14:51.091936|UTC]	Log warning file root: log/logWarning.log
+[10.09.24|16:14:51.116693|UTC]	Log in: True
+[10.09.24|16:14:51.142900|UTC]	Registration: True
+[10.09.24|16:14:51.168430|UTC]	UI: tailwindUI
+[10.09.24|16:14:51.192161|UTC]	Template folder: templates/tailwindUI
+[10.09.24|16:14:51.216523|UTC]	Static folder: static/tailwindUI
+[10.09.24|16:14:51.240000|UTC]	SMTP server: smtp.gmail.com
+[10.09.24|16:14:51.262720|UTC]	SMTP port: 587
+[10.09.24|16:14:51.287152|UTC]	SMTP mail: sumonpaul267@gmail.com
+[10.09.24|16:14:51.310248|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[10.09.24|16:14:51.333256|UTC]	reCAPTCHA is off
+[10.09.24|16:14:51.357371|UTC]	Default admin is on
+[10.09.24|16:14:51.380128|UTC]	Default admin username: admin
+[10.09.24|16:14:51.404071|UTC]	Default admin email: admin@flaskblog.com
+[10.09.24|16:14:51.429449|UTC]	Default admin password: admin
+[10.09.24|16:14:51.452429|UTC]	Default admin point: 0
+[10.09.24|16:14:51.475094|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[10.09.24|16:14:51.499305|UTC]	Database folder: "/db/" found
+[10.09.24|16:14:51.533976|UTC]	Users database: "db/users.db" found
+[10.09.24|16:14:51.617910|UTC]	Table: "users" found in "db/users.db"
+[10.09.24|16:14:51.642748|UTC]	Posts database: "db/posts.db" found
+[10.09.24|16:14:51.720251|UTC]	Table: "posts" found in "db/posts.db"
+[10.09.24|16:14:51.747522|UTC]	Comments database: "db/comments.db" found
+[10.09.24|16:14:51.824947|UTC]	Table: "comments" found in "db/comments.db"
+[10.09.24|16:14:51.868982|UTC]	Running on http://172.23.0.2:5000
+[10.09.24|16:14:52.258435|UTC]	Starting...
+[10.09.24|16:14:52.312921|UTC]	Werkzeug default logger is disabled
+[10.09.24|16:14:52.336584|UTC]	Custom logger is enabled
+[10.09.24|16:14:52.358468|UTC]	Debug mode: True
+[10.09.24|16:14:52.380537|UTC]	Name: flaskBlog
+[10.09.24|16:14:52.405926|UTC]	Version: 2.0.0
+[10.09.24|16:14:52.428602|UTC]	Host: 172.23.0.2
+[10.09.24|16:14:52.450758|UTC]	Port: 5000
+[10.09.24|16:14:52.473860|UTC]	Secret key: Vzji9OQ9Tv6xe2-VRfM15A4OTS-Ci3ss_fEqhMiKDkE
+[10.09.24|16:14:52.496824|UTC]	Session permanent: True
+[10.09.24|16:14:52.519273|UTC]	Root path: .
+[10.09.24|16:14:52.551668|UTC]	Log folder root: log/
+[10.09.24|16:14:52.578459|UTC]	Log file root: log/log.log
+[10.09.24|16:14:52.601500|UTC]	Log app file root: log/logApp.log
+[10.09.24|16:14:52.625160|UTC]	Log danger file root: log/logDanger.log
+[10.09.24|16:14:52.647502|UTC]	Log success file root: log/logSuccess.log
+[10.09.24|16:14:52.672495|UTC]	Log info file root: log/logInfo.log
+[10.09.24|16:14:52.698199|UTC]	Log warning file root: log/logWarning.log
+[10.09.24|16:14:52.720672|UTC]	Log in: True
+[10.09.24|16:14:52.743091|UTC]	Registration: True
+[10.09.24|16:14:52.767191|UTC]	UI: tailwindUI
+[10.09.24|16:14:52.790378|UTC]	Template folder: templates/tailwindUI
+[10.09.24|16:14:52.813464|UTC]	Static folder: static/tailwindUI
+[10.09.24|16:14:52.837610|UTC]	SMTP server: smtp.gmail.com
+[10.09.24|16:14:52.860813|UTC]	SMTP port: 587
+[10.09.24|16:14:52.883765|UTC]	SMTP mail: sumonpaul267@gmail.com
+[10.09.24|16:14:52.907246|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[10.09.24|16:14:52.929357|UTC]	reCAPTCHA is off
+[10.09.24|16:14:52.951694|UTC]	Default admin is on
+[10.09.24|16:14:52.977017|UTC]	Default admin username: admin
+[10.09.24|16:14:52.999738|UTC]	Default admin email: admin@flaskblog.com
+[10.09.24|16:14:53.022593|UTC]	Default admin password: admin
+[10.09.24|16:14:53.046417|UTC]	Default admin point: 0
+[10.09.24|16:14:53.069142|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[10.09.24|16:14:53.091617|UTC]	Database folder: "/db/" found
+[10.09.24|16:14:53.114937|UTC]	Users database: "db/users.db" found
+[10.09.24|16:14:53.193622|UTC]	Table: "users" found in "db/users.db"
+[10.09.24|16:14:53.216460|UTC]	Posts database: "db/posts.db" found
+[10.09.24|16:14:53.286411|UTC]	Table: "posts" found in "db/posts.db"
+[10.09.24|16:14:53.308664|UTC]	Comments database: "db/comments.db" found
+[10.09.24|16:14:53.376237|UTC]	Table: "comments" found in "db/comments.db"
+[10.09.24|16:14:53.417311|UTC]	Running on http://172.23.0.2:5000
+[10.09.24|17:34:34.066643|UTC]	Starting...
+[10.09.24|17:34:34.211802|UTC]	Werkzeug default logger is disabled
+[10.09.24|17:34:34.246165|UTC]	Custom logger is enabled
+[10.09.24|17:34:34.287217|UTC]	Debug mode: True
+[10.09.24|17:34:34.318494|UTC]	Name: flaskBlog
+[10.09.24|17:34:34.351998|UTC]	Version: 2.0.0
+[10.09.24|17:34:34.385231|UTC]	Host: 172.23.0.2
+[10.09.24|17:34:34.421217|UTC]	Port: 5000
+[10.09.24|17:34:34.460527|UTC]	Secret key: BN1nGxtOnFbGUZW04EDvIITlvrDns6hYdYLZvTG0pKU
+[10.09.24|17:34:34.496877|UTC]	Session permanent: True
+[10.09.24|17:34:34.530069|UTC]	Root path: .
+[10.09.24|17:34:34.561048|UTC]	Log folder root: log/
+[10.09.24|17:34:34.594272|UTC]	Log file root: log/log.log
+[10.09.24|17:34:34.626928|UTC]	Log app file root: log/logApp.log
+[10.09.24|17:34:34.660872|UTC]	Log danger file root: log/logDanger.log
+[10.09.24|17:34:34.695513|UTC]	Log success file root: log/logSuccess.log
+[10.09.24|17:34:34.725092|UTC]	Log info file root: log/logInfo.log
+[10.09.24|17:34:34.759582|UTC]	Log warning file root: log/logWarning.log
+[10.09.24|17:34:34.793375|UTC]	Log in: True
+[10.09.24|17:34:34.830518|UTC]	Registration: True
+[10.09.24|17:34:34.864576|UTC]	UI: tailwindUI
+[10.09.24|17:34:34.895596|UTC]	Template folder: templates/tailwindUI
+[10.09.24|17:34:34.927934|UTC]	Static folder: static/tailwindUI
+[10.09.24|17:34:34.961099|UTC]	SMTP server: smtp.gmail.com
+[10.09.24|17:34:34.993285|UTC]	SMTP port: 587
+[10.09.24|17:34:35.028320|UTC]	SMTP mail: sumonpaul267@gmail.com
+[10.09.24|17:34:35.061188|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[10.09.24|17:34:35.099125|UTC]	reCAPTCHA is off
+[10.09.24|17:34:35.132781|UTC]	Default admin is on
+[10.09.24|17:34:35.164910|UTC]	Default admin username: admin
+[10.09.24|17:34:35.196928|UTC]	Default admin email: admin@flaskblog.com
+[10.09.24|17:34:35.230545|UTC]	Default admin password: admin
+[10.09.24|17:34:35.265233|UTC]	Default admin point: 0
+[10.09.24|17:34:35.295871|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[10.09.24|17:34:35.328205|UTC]	Database folder: "/db/" found
+[10.09.24|17:34:35.360387|UTC]	Users database: "db/users.db" found
+[10.09.24|17:34:35.455261|UTC]	Table: "users" found in "db/users.db"
+[10.09.24|17:34:35.487698|UTC]	Posts database: "db/posts.db" found
+[10.09.24|17:34:35.596867|UTC]	Table: "posts" found in "db/posts.db"
+[10.09.24|17:34:35.621279|UTC]	Comments database: "db/comments.db" found
+[10.09.24|17:34:35.695698|UTC]	Table: "comments" found in "db/comments.db"
+[10.09.24|17:34:35.753865|UTC]	Running on http://172.23.0.2:5000
+[10.09.24|17:34:36.364645|UTC]	Starting...
+[10.09.24|17:34:36.495967|UTC]	Werkzeug default logger is disabled
+[10.09.24|17:34:36.538784|UTC]	Custom logger is enabled
+[10.09.24|17:34:36.585901|UTC]	Debug mode: True
+[10.09.24|17:34:36.621072|UTC]	Name: flaskBlog
+[10.09.24|17:34:36.670983|UTC]	Version: 2.0.0
+[10.09.24|17:34:36.723622|UTC]	Host: 172.23.0.2
+[10.09.24|17:34:36.789920|UTC]	Port: 5000
+[10.09.24|17:34:36.832520|UTC]	Secret key: kQWUD0EHmlG1sh7DxWksT49wfxCdve91x5vlNzBaG70
+[10.09.24|17:34:36.880830|UTC]	Session permanent: True
+[10.09.24|17:34:36.923678|UTC]	Root path: .
+[10.09.24|17:34:36.961276|UTC]	Log folder root: log/
+[10.09.24|17:34:37.009253|UTC]	Log file root: log/log.log
+[10.09.24|17:34:37.052236|UTC]	Log app file root: log/logApp.log
+[10.09.24|17:34:37.095378|UTC]	Log danger file root: log/logDanger.log
+[10.09.24|17:34:37.143297|UTC]	Log success file root: log/logSuccess.log
+[10.09.24|17:34:37.191412|UTC]	Log info file root: log/logInfo.log
+[10.09.24|17:34:37.239841|UTC]	Log warning file root: log/logWarning.log
+[10.09.24|17:34:37.281396|UTC]	Log in: True
+[10.09.24|17:34:37.687256|UTC]	Registration: True
+[10.09.24|17:34:37.980938|UTC]	UI: tailwindUI
+[10.09.24|17:34:38.029275|UTC]	Template folder: templates/tailwindUI
+[10.09.24|17:34:38.072039|UTC]	Static folder: static/tailwindUI
+[10.09.24|17:34:38.115036|UTC]	SMTP server: smtp.gmail.com
+[10.09.24|17:34:38.157683|UTC]	SMTP port: 587
+[10.09.24|17:34:38.200696|UTC]	SMTP mail: sumonpaul267@gmail.com
+[10.09.24|17:34:38.243384|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[10.09.24|17:34:38.286374|UTC]	reCAPTCHA is off
+[10.09.24|17:34:38.328967|UTC]	Default admin is on
+[10.09.24|17:34:38.377375|UTC]	Default admin username: admin
+[10.09.24|17:34:38.426999|UTC]	Default admin email: admin@flaskblog.com
+[10.09.24|17:34:38.479073|UTC]	Default admin password: admin
+[10.09.24|17:34:38.526165|UTC]	Default admin point: 0
+[10.09.24|17:34:38.569367|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[10.09.24|17:34:38.611342|UTC]	Database folder: "/db/" found
+[10.09.24|17:34:38.648439|UTC]	Users database: "db/users.db" found
+[10.09.24|17:34:38.760834|UTC]	Table: "users" found in "db/users.db"
+[10.09.24|17:34:38.788329|UTC]	Posts database: "db/posts.db" found
+[10.09.24|17:34:38.888323|UTC]	Table: "posts" found in "db/posts.db"
+[10.09.24|17:34:38.937142|UTC]	Comments database: "db/comments.db" found
+[10.09.24|17:34:39.055690|UTC]	Table: "comments" found in "db/comments.db"
+[10.09.24|17:34:39.135604|UTC]	Running on http://172.23.0.2:5000
+[11.09.24|15:10:10.876161|UTC]	Starting...
+[11.09.24|15:10:11.012827|UTC]	Werkzeug default logger is disabled
+[11.09.24|15:10:11.034651|UTC]	Custom logger is enabled
+[11.09.24|15:10:11.057375|UTC]	Debug mode: True
+[11.09.24|15:10:11.082009|UTC]	Name: flaskBlog
+[11.09.24|15:10:11.104643|UTC]	Version: 2.0.0
+[11.09.24|15:10:11.128453|UTC]	Host: 172.23.0.2
+[11.09.24|15:10:11.151555|UTC]	Port: 5000
+[11.09.24|15:10:11.174550|UTC]	Secret key: MZfAoseuMTJPDVmCvAJrOQKD3YpExN8iQGg8IsssuwA
+[11.09.24|15:10:11.198022|UTC]	Session permanent: True
+[11.09.24|15:10:11.220598|UTC]	Root path: .
+[11.09.24|15:10:11.243038|UTC]	Log folder root: log/
+[11.09.24|15:10:11.266220|UTC]	Log file root: log/log.log
+[11.09.24|15:10:11.288153|UTC]	Log app file root: log/logApp.log
+[11.09.24|15:10:11.310083|UTC]	Log danger file root: log/logDanger.log
+[11.09.24|15:10:11.333274|UTC]	Log success file root: log/logSuccess.log
+[11.09.24|15:10:11.357372|UTC]	Log info file root: log/logInfo.log
+[11.09.24|15:10:11.387162|UTC]	Log warning file root: log/logWarning.log
+[11.09.24|15:10:11.412488|UTC]	Log in: True
+[11.09.24|15:10:11.434256|UTC]	Registration: True
+[11.09.24|15:10:11.456348|UTC]	UI: tailwindUI
+[11.09.24|15:10:11.479453|UTC]	Template folder: templates/tailwindUI
+[11.09.24|15:10:11.501120|UTC]	Static folder: static/tailwindUI
+[11.09.24|15:10:11.523126|UTC]	SMTP server: smtp.gmail.com
+[11.09.24|15:10:11.545911|UTC]	SMTP port: 587
+[11.09.24|15:10:11.567892|UTC]	SMTP mail: sumonpaul267@gmail.com
+[11.09.24|15:10:11.590209|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[11.09.24|15:10:11.613308|UTC]	reCAPTCHA is off
+[11.09.24|15:10:11.637497|UTC]	Default admin is on
+[11.09.24|15:10:11.659184|UTC]	Default admin username: admin
+[11.09.24|15:10:11.682278|UTC]	Default admin email: admin@flaskblog.com
+[11.09.24|15:10:11.703548|UTC]	Default admin password: admin
+[11.09.24|15:10:11.725867|UTC]	Default admin point: 0
+[11.09.24|15:10:11.749158|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[11.09.24|15:10:11.771027|UTC]	Database folder: "/db/" found
+[11.09.24|15:10:11.794106|UTC]	Users database: "db/users.db" found
+[11.09.24|15:10:11.873495|UTC]	Table: "users" found in "db/users.db"
+[11.09.24|15:10:11.898568|UTC]	Posts database: "db/posts.db" found
+[11.09.24|15:10:11.977688|UTC]	Table: "posts" found in "db/posts.db"
+[11.09.24|15:10:12.012147|UTC]	Comments database: "db/comments.db" found
+[11.09.24|15:10:12.087200|UTC]	Table: "comments" found in "db/comments.db"
+[11.09.24|15:10:12.128639|UTC]	Running on http://172.23.0.2:5000
+[11.09.24|15:10:12.513949|UTC]	Starting...
+[11.09.24|15:10:12.570562|UTC]	Werkzeug default logger is disabled
+[11.09.24|15:10:12.593405|UTC]	Custom logger is enabled
+[11.09.24|15:10:12.616791|UTC]	Debug mode: True
+[11.09.24|15:10:12.639812|UTC]	Name: flaskBlog
+[11.09.24|15:10:12.661728|UTC]	Version: 2.0.0
+[11.09.24|15:10:12.683435|UTC]	Host: 172.23.0.2
+[11.09.24|15:10:12.706188|UTC]	Port: 5000
+[11.09.24|15:10:12.727972|UTC]	Secret key: tJjg_KCIKSrnWcZAPKglN5XRZ-rRMD1ukSuxCmuMAGw
+[11.09.24|15:10:12.750425|UTC]	Session permanent: True
+[11.09.24|15:10:12.773967|UTC]	Root path: .
+[11.09.24|15:10:12.796211|UTC]	Log folder root: log/
+[11.09.24|15:10:12.818188|UTC]	Log file root: log/log.log
+[11.09.24|15:10:12.841308|UTC]	Log app file root: log/logApp.log
+[11.09.24|15:10:12.863963|UTC]	Log danger file root: log/logDanger.log
+[11.09.24|15:10:12.887758|UTC]	Log success file root: log/logSuccess.log
+[11.09.24|15:10:12.911433|UTC]	Log info file root: log/logInfo.log
+[11.09.24|15:10:12.934052|UTC]	Log warning file root: log/logWarning.log
+[11.09.24|15:10:12.964119|UTC]	Log in: True
+[11.09.24|15:10:12.988748|UTC]	Registration: True
+[11.09.24|15:10:13.010821|UTC]	UI: tailwindUI
+[11.09.24|15:10:13.032419|UTC]	Template folder: templates/tailwindUI
+[11.09.24|15:10:13.055243|UTC]	Static folder: static/tailwindUI
+[11.09.24|15:10:13.077501|UTC]	SMTP server: smtp.gmail.com
+[11.09.24|15:10:13.099786|UTC]	SMTP port: 587
+[11.09.24|15:10:13.123203|UTC]	SMTP mail: sumonpaul267@gmail.com
+[11.09.24|15:10:13.146112|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[11.09.24|15:10:13.169539|UTC]	reCAPTCHA is off
+[11.09.24|15:10:13.192775|UTC]	Default admin is on
+[11.09.24|15:10:13.214820|UTC]	Default admin username: admin
+[11.09.24|15:10:13.236995|UTC]	Default admin email: admin@flaskblog.com
+[11.09.24|15:10:13.260157|UTC]	Default admin password: admin
+[11.09.24|15:10:13.281859|UTC]	Default admin point: 0
+[11.09.24|15:10:13.303886|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[11.09.24|15:10:13.327486|UTC]	Database folder: "/db/" found
+[11.09.24|15:10:13.349836|UTC]	Users database: "db/users.db" found
+[11.09.24|15:10:13.419055|UTC]	Table: "users" found in "db/users.db"
+[11.09.24|15:10:13.443056|UTC]	Posts database: "db/posts.db" found
+[11.09.24|15:10:13.511341|UTC]	Table: "posts" found in "db/posts.db"
+[11.09.24|15:10:13.542851|UTC]	Comments database: "db/comments.db" found
+[11.09.24|15:10:13.612218|UTC]	Table: "comments" found in "db/comments.db"
+[11.09.24|15:10:13.653603|UTC]	Running on http://172.23.0.2:5000
+[11.09.24|15:17:01.963492|UTC]	Starting...
+[11.09.24|15:17:02.121757|UTC]	Werkzeug default logger is disabled
+[11.09.24|15:17:02.144543|UTC]	Custom logger is enabled
+[11.09.24|15:17:02.180614|UTC]	Debug mode: True
+[11.09.24|15:17:02.207369|UTC]	Name: flaskBlog
+[11.09.24|15:17:02.231074|UTC]	Version: 2.0.0
+[11.09.24|15:17:02.263491|UTC]	Host: 172.23.0.2
+[11.09.24|15:17:02.297534|UTC]	Port: 5000
+[11.09.24|15:17:02.330277|UTC]	Secret key: 4AnmY8Byx3SGpIIwTw-GtjT_PSPYP-F5nFaCirKmECQ
+[11.09.24|15:17:02.358577|UTC]	Session permanent: True
+[11.09.24|15:17:02.382140|UTC]	Root path: .
+[11.09.24|15:17:02.415745|UTC]	Log folder root: log/
+[11.09.24|15:17:02.457262|UTC]	Log file root: log/log.log
+[11.09.24|15:17:02.488652|UTC]	Log app file root: log/logApp.log
+[11.09.24|15:17:02.523033|UTC]	Log danger file root: log/logDanger.log
+[11.09.24|15:17:02.557083|UTC]	Log success file root: log/logSuccess.log
+[11.09.24|15:17:02.589014|UTC]	Log info file root: log/logInfo.log
+[11.09.24|15:17:02.621862|UTC]	Log warning file root: log/logWarning.log
+[11.09.24|15:17:02.657207|UTC]	Log in: True
+[11.09.24|15:17:02.689308|UTC]	Registration: True
+[11.09.24|15:17:02.722851|UTC]	UI: tailwindUI
+[11.09.24|15:17:02.755976|UTC]	Template folder: templates/tailwindUI
+[11.09.24|15:17:02.790836|UTC]	Static folder: static/tailwindUI
+[11.09.24|15:17:02.819760|UTC]	SMTP server: smtp.gmail.com
+[11.09.24|15:17:02.852161|UTC]	SMTP port: 587
+[11.09.24|15:17:02.893844|UTC]	SMTP mail: sumonpaul267@gmail.com
+[11.09.24|15:17:02.924304|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[11.09.24|15:17:02.946508|UTC]	reCAPTCHA is off
+[11.09.24|15:17:02.974259|UTC]	Default admin is on
+[11.09.24|15:17:03.006343|UTC]	Default admin username: admin
+[11.09.24|15:17:03.034411|UTC]	Default admin email: admin@flaskblog.com
+[11.09.24|15:17:03.065275|UTC]	Default admin password: admin
+[11.09.24|15:17:03.097645|UTC]	Default admin point: 0
+[11.09.24|15:17:03.129880|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[11.09.24|15:17:03.162433|UTC]	Database folder: "/db/" found
+[11.09.24|15:17:03.196430|UTC]	Users database: "db/users.db" found
+[11.09.24|15:17:03.330036|UTC]	Table: "users" found in "db/users.db"
+[11.09.24|15:17:03.364664|UTC]	Posts database: "db/posts.db" found
+[11.09.24|15:17:03.505188|UTC]	Table: "posts" found in "db/posts.db"
+[11.09.24|15:17:03.537745|UTC]	Comments database: "db/comments.db" found
+[11.09.24|15:17:03.659107|UTC]	Table: "comments" found in "db/comments.db"
+[11.09.24|15:17:03.717900|UTC]	Running on http://172.23.0.2:5000
+[11.09.24|15:17:04.451788|UTC]	Starting...
+[11.09.24|15:17:04.687677|UTC]	Werkzeug default logger is disabled
+[11.09.24|15:17:04.735748|UTC]	Custom logger is enabled
+[11.09.24|15:17:04.789073|UTC]	Debug mode: True
+[11.09.24|15:17:04.832093|UTC]	Name: flaskBlog
+[11.09.24|15:17:04.875149|UTC]	Version: 2.0.0
+[11.09.24|15:17:04.931535|UTC]	Host: 172.23.0.2
+[11.09.24|15:17:04.969623|UTC]	Port: 5000
+[11.09.24|15:17:05.189482|UTC]	Secret key: J6hfmvohaFCo9rqxZ6uRDqikN8RWxrI8uuRSHlQrHBU
+[11.09.24|15:17:05.637633|UTC]	Session permanent: True
+[11.09.24|15:17:05.696301|UTC]	Root path: .
+[11.09.24|15:17:05.739289|UTC]	Log folder root: log/
+[11.09.24|15:17:05.787517|UTC]	Log file root: log/log.log
+[11.09.24|15:17:05.833796|UTC]	Log app file root: log/logApp.log
+[11.09.24|15:17:05.883812|UTC]	Log danger file root: log/logDanger.log
+[11.09.24|15:17:05.926830|UTC]	Log success file root: log/logSuccess.log
+[11.09.24|15:17:05.969460|UTC]	Log info file root: log/logInfo.log
+[11.09.24|15:17:06.012484|UTC]	Log warning file root: log/logWarning.log
+[11.09.24|15:17:06.065839|UTC]	Log in: True
+[11.09.24|15:17:06.108602|UTC]	Registration: True
+[11.09.24|15:17:06.151605|UTC]	UI: tailwindUI
+[11.09.24|15:17:06.194564|UTC]	Template folder: templates/tailwindUI
+[11.09.24|15:17:06.237234|UTC]	Static folder: static/tailwindUI
+[11.09.24|15:17:06.280291|UTC]	SMTP server: smtp.gmail.com
+[11.09.24|15:17:06.302755|UTC]	SMTP port: 587
+[11.09.24|15:17:06.335000|UTC]	SMTP mail: sumonpaul267@gmail.com
+[11.09.24|15:17:06.367593|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[11.09.24|15:17:06.414328|UTC]	reCAPTCHA is off
+[11.09.24|15:17:06.446875|UTC]	Default admin is on
+[11.09.24|15:17:06.487025|UTC]	Default admin username: admin
+[11.09.24|15:17:06.529928|UTC]	Default admin email: admin@flaskblog.com
+[11.09.24|15:17:06.572709|UTC]	Default admin password: admin
+[11.09.24|15:17:06.616168|UTC]	Default admin point: 0
+[11.09.24|15:17:06.657025|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[11.09.24|15:17:06.695079|UTC]	Database folder: "/db/" found
+[11.09.24|15:17:06.737598|UTC]	Users database: "db/users.db" found
+[11.09.24|15:17:06.850816|UTC]	Table: "users" found in "db/users.db"
+[11.09.24|15:17:06.892343|UTC]	Posts database: "db/posts.db" found
+[11.09.24|15:17:07.002363|UTC]	Table: "posts" found in "db/posts.db"
+[11.09.24|15:17:07.037907|UTC]	Comments database: "db/comments.db" found
+[11.09.24|15:17:07.132073|UTC]	Table: "comments" found in "db/comments.db"
+[11.09.24|15:17:07.182476|UTC]	Running on http://172.23.0.2:5000
+[12.09.24|05:15:25.525461|UTC]	Starting...
+[12.09.24|05:15:25.663898|UTC]	Werkzeug default logger is disabled
+[12.09.24|05:15:25.686316|UTC]	Custom logger is enabled
+[12.09.24|05:15:25.709787|UTC]	Debug mode: True
+[12.09.24|05:15:25.732661|UTC]	Name: flaskBlog
+[12.09.24|05:15:25.755111|UTC]	Version: 2.0.0
+[12.09.24|05:15:25.778453|UTC]	Host: 172.23.0.2
+[12.09.24|05:15:25.800778|UTC]	Port: 5000
+[12.09.24|05:15:25.825150|UTC]	Secret key: cq40mr2WcohM6SUd68gUrK2WQ77jHRmSsrF5gOhtlZ4
+[12.09.24|05:15:25.848930|UTC]	Session permanent: True
+[12.09.24|05:15:25.871306|UTC]	Root path: .
+[12.09.24|05:15:25.893676|UTC]	Log folder root: log/
+[12.09.24|05:15:25.916580|UTC]	Log file root: log/log.log
+[12.09.24|05:15:25.938306|UTC]	Log app file root: log/logApp.log
+[12.09.24|05:15:25.959907|UTC]	Log danger file root: log/logDanger.log
+[12.09.24|05:15:25.992276|UTC]	Log success file root: log/logSuccess.log
+[12.09.24|05:15:26.015946|UTC]	Log info file root: log/logInfo.log
+[12.09.24|05:15:26.039931|UTC]	Log warning file root: log/logWarning.log
+[12.09.24|05:15:26.062516|UTC]	Log in: True
+[12.09.24|05:15:26.084522|UTC]	Registration: True
+[12.09.24|05:15:26.109022|UTC]	UI: tailwindUI
+[12.09.24|05:15:26.132193|UTC]	Template folder: templates/tailwindUI
+[12.09.24|05:15:26.154256|UTC]	Static folder: static/tailwindUI
+[12.09.24|05:15:26.177084|UTC]	SMTP server: smtp.gmail.com
+[12.09.24|05:15:26.199709|UTC]	SMTP port: 587
+[12.09.24|05:15:26.222007|UTC]	SMTP mail: sumonpaul267@gmail.com
+[12.09.24|05:15:26.244981|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[12.09.24|05:15:26.267592|UTC]	reCAPTCHA is off
+[12.09.24|05:15:26.289224|UTC]	Default admin is on
+[12.09.24|05:15:26.311645|UTC]	Default admin username: admin
+[12.09.24|05:15:26.334169|UTC]	Default admin email: admin@flaskblog.com
+[12.09.24|05:15:26.355932|UTC]	Default admin password: admin
+[12.09.24|05:15:26.380083|UTC]	Default admin point: 0
+[12.09.24|05:15:26.402770|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[12.09.24|05:15:26.424146|UTC]	Database folder: "/db/" found
+[12.09.24|05:15:26.447609|UTC]	Users database: "db/users.db" found
+[12.09.24|05:15:26.524534|UTC]	Table: "users" found in "db/users.db"
+[12.09.24|05:15:26.549590|UTC]	Posts database: "db/posts.db" found
+[12.09.24|05:15:26.635173|UTC]	Table: "posts" found in "db/posts.db"
+[12.09.24|05:15:26.660279|UTC]	Comments database: "db/comments.db" found
+[12.09.24|05:15:26.738047|UTC]	Table: "comments" found in "db/comments.db"
+[12.09.24|05:15:26.781059|UTC]	Running on http://172.23.0.2:5000
+[12.09.24|05:15:27.166732|UTC]	Starting...
+[12.09.24|05:15:27.224788|UTC]	Werkzeug default logger is disabled
+[12.09.24|05:15:27.246676|UTC]	Custom logger is enabled
+[12.09.24|05:15:27.268615|UTC]	Debug mode: True
+[12.09.24|05:15:27.291955|UTC]	Name: flaskBlog
+[12.09.24|05:15:27.314287|UTC]	Version: 2.0.0
+[12.09.24|05:15:27.336428|UTC]	Host: 172.23.0.2
+[12.09.24|05:15:27.361629|UTC]	Port: 5000
+[12.09.24|05:15:27.383859|UTC]	Secret key: PT0vnWwORHrPF-cRjfGBUJ705A6QpFW6TapjRfdE8E4
+[12.09.24|05:15:27.406037|UTC]	Session permanent: True
+[12.09.24|05:15:27.429282|UTC]	Root path: .
+[12.09.24|05:15:27.451858|UTC]	Log folder root: log/
+[12.09.24|05:15:27.474235|UTC]	Log file root: log/log.log
+[12.09.24|05:15:27.497997|UTC]	Log app file root: log/logApp.log
+[12.09.24|05:15:27.520407|UTC]	Log danger file root: log/logDanger.log
+[12.09.24|05:15:27.542950|UTC]	Log success file root: log/logSuccess.log
+[12.09.24|05:15:27.575094|UTC]	Log info file root: log/logInfo.log
+[12.09.24|05:15:27.598033|UTC]	Log warning file root: log/logWarning.log
+[12.09.24|05:15:27.620599|UTC]	Log in: True
+[12.09.24|05:15:27.645356|UTC]	Registration: True
+[12.09.24|05:15:27.667642|UTC]	UI: tailwindUI
+[12.09.24|05:15:27.690416|UTC]	Template folder: templates/tailwindUI
+[12.09.24|05:15:27.713352|UTC]	Static folder: static/tailwindUI
+[12.09.24|05:15:27.735865|UTC]	SMTP server: smtp.gmail.com
+[12.09.24|05:15:27.759156|UTC]	SMTP port: 587
+[12.09.24|05:15:27.782772|UTC]	SMTP mail: sumonpaul267@gmail.com
+[12.09.24|05:15:27.806403|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[12.09.24|05:15:27.830362|UTC]	reCAPTCHA is off
+[12.09.24|05:15:27.854562|UTC]	Default admin is on
+[12.09.24|05:15:27.878141|UTC]	Default admin username: admin
+[12.09.24|05:15:27.901900|UTC]	Default admin email: admin@flaskblog.com
+[12.09.24|05:15:27.928065|UTC]	Default admin password: admin
+[12.09.24|05:15:27.953023|UTC]	Default admin point: 0
+[12.09.24|05:15:27.976235|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[12.09.24|05:15:27.999518|UTC]	Database folder: "/db/" found
+[12.09.24|05:15:28.022588|UTC]	Users database: "db/users.db" found
+[12.09.24|05:15:28.093696|UTC]	Table: "users" found in "db/users.db"
+[12.09.24|05:15:28.117871|UTC]	Posts database: "db/posts.db" found
+[12.09.24|05:15:28.198418|UTC]	Table: "posts" found in "db/posts.db"
+[12.09.24|05:15:28.223567|UTC]	Comments database: "db/comments.db" found
+[12.09.24|05:15:28.293835|UTC]	Table: "comments" found in "db/comments.db"
+[12.09.24|05:15:28.335166|UTC]	Running on http://172.23.0.2:5000
+[12.09.24|05:23:15.058782|UTC]	Starting...
+[12.09.24|05:23:15.202256|UTC]	Werkzeug default logger is disabled
+[12.09.24|05:23:15.237193|UTC]	Custom logger is enabled
+[12.09.24|05:23:15.266428|UTC]	Debug mode: True
+[12.09.24|05:23:15.290578|UTC]	Name: flaskBlog
+[12.09.24|05:23:15.332163|UTC]	Version: 2.0.0
+[12.09.24|05:23:15.367386|UTC]	Host: 172.23.0.2
+[12.09.24|05:23:15.412303|UTC]	Port: 5000
+[12.09.24|05:23:15.446337|UTC]	Secret key: RoQ2zMzdtnBGpEowBLyIgfxZ4zJ0CD6vCnuPP4b9sNc
+[12.09.24|05:23:15.474904|UTC]	Session permanent: True
+[12.09.24|05:23:15.506939|UTC]	Root path: .
+[12.09.24|05:23:15.539840|UTC]	Log folder root: log/
+[12.09.24|05:23:15.572850|UTC]	Log file root: log/log.log
+[12.09.24|05:23:15.604117|UTC]	Log app file root: log/logApp.log
+[12.09.24|05:23:15.636082|UTC]	Log danger file root: log/logDanger.log
+[12.09.24|05:23:15.670256|UTC]	Log success file root: log/logSuccess.log
+[12.09.24|05:23:15.701432|UTC]	Log info file root: log/logInfo.log
+[12.09.24|05:23:15.729950|UTC]	Log warning file root: log/logWarning.log
+[12.09.24|05:23:15.756288|UTC]	Log in: True
+[12.09.24|05:23:15.795953|UTC]	Registration: True
+[12.09.24|05:23:15.829274|UTC]	UI: tailwindUI
+[12.09.24|05:23:15.863477|UTC]	Template folder: templates/tailwindUI
+[12.09.24|05:23:15.897364|UTC]	Static folder: static/tailwindUI
+[12.09.24|05:23:15.931472|UTC]	SMTP server: smtp.gmail.com
+[12.09.24|05:23:15.962774|UTC]	SMTP port: 587
+[12.09.24|05:23:15.997218|UTC]	SMTP mail: sumonpaul267@gmail.com
+[12.09.24|05:23:16.030883|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[12.09.24|05:23:16.062601|UTC]	reCAPTCHA is off
+[12.09.24|05:23:16.094746|UTC]	Default admin is on
+[12.09.24|05:23:16.127176|UTC]	Default admin username: admin
+[12.09.24|05:23:16.158684|UTC]	Default admin email: admin@flaskblog.com
+[12.09.24|05:23:16.184341|UTC]	Default admin password: admin
+[12.09.24|05:23:16.217085|UTC]	Default admin point: 0
+[12.09.24|05:23:16.258557|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[12.09.24|05:23:16.291599|UTC]	Database folder: "/db/" found
+[12.09.24|05:23:16.323100|UTC]	Users database: "db/users.db" found
+[12.09.24|05:23:16.433849|UTC]	Table: "users" found in "db/users.db"
+[12.09.24|05:23:16.467291|UTC]	Posts database: "db/posts.db" found
+[12.09.24|05:23:16.564055|UTC]	Table: "posts" found in "db/posts.db"
+[12.09.24|05:23:16.596645|UTC]	Comments database: "db/comments.db" found
+[12.09.24|05:23:16.682835|UTC]	Table: "comments" found in "db/comments.db"
+[12.09.24|05:23:16.742127|UTC]	Running on http://172.23.0.2:5000
+[12.09.24|05:23:17.322981|UTC]	Starting...
+[12.09.24|05:23:17.475201|UTC]	Werkzeug default logger is disabled
+[12.09.24|05:23:17.517070|UTC]	Custom logger is enabled
+[12.09.24|05:23:17.550762|UTC]	Debug mode: True
+[12.09.24|05:23:17.576339|UTC]	Name: flaskBlog
+[12.09.24|05:23:17.619585|UTC]	Version: 2.0.0
+[12.09.24|05:23:17.678704|UTC]	Host: 172.23.0.2
+[12.09.24|05:23:17.721814|UTC]	Port: 5000
+[12.09.24|05:23:17.770048|UTC]	Secret key: zLFHrDyS-18pXwiWqthRTOYjY5gaFLFQJoAwpAGjPik
+[12.09.24|05:23:17.829128|UTC]	Session permanent: True
+[12.09.24|05:23:17.865909|UTC]	Root path: .
+[12.09.24|05:23:17.914763|UTC]	Log folder root: log/
+[12.09.24|05:23:17.957425|UTC]	Log file root: log/log.log
+[12.09.24|05:23:18.000410|UTC]	Log app file root: log/logApp.log
+[12.09.24|05:23:18.048774|UTC]	Log danger file root: log/logDanger.log
+[12.09.24|05:23:18.093271|UTC]	Log success file root: log/logSuccess.log
+[12.09.24|05:23:18.134409|UTC]	Log info file root: log/logInfo.log
+[12.09.24|05:23:18.182762|UTC]	Log warning file root: log/logWarning.log
+[12.09.24|05:23:18.212736|UTC]	Log in: True
+[12.09.24|05:23:18.708845|UTC]	Registration: True
+[12.09.24|05:23:18.885420|UTC]	UI: tailwindUI
+[12.09.24|05:23:18.926769|UTC]	Template folder: templates/tailwindUI
+[12.09.24|05:23:18.970896|UTC]	Static folder: static/tailwindUI
+[12.09.24|05:23:19.018942|UTC]	SMTP server: smtp.gmail.com
+[12.09.24|05:23:19.061989|UTC]	SMTP port: 587
+[12.09.24|05:23:19.104595|UTC]	SMTP mail: sumonpaul267@gmail.com
+[12.09.24|05:23:19.158343|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[12.09.24|05:23:19.200972|UTC]	reCAPTCHA is off
+[12.09.24|05:23:19.243940|UTC]	Default admin is on
+[12.09.24|05:23:19.291918|UTC]	Default admin username: admin
+[12.09.24|05:23:19.327428|UTC]	Default admin email: admin@flaskblog.com
+[12.09.24|05:23:19.364130|UTC]	Default admin password: admin
+[12.09.24|05:23:19.410271|UTC]	Default admin point: 0
+[12.09.24|05:23:19.452916|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[12.09.24|05:23:19.506634|UTC]	Database folder: "/db/" found
+[12.09.24|05:23:19.543651|UTC]	Users database: "db/users.db" found
+[12.09.24|05:23:19.674368|UTC]	Table: "users" found in "db/users.db"
+[12.09.24|05:23:19.718221|UTC]	Posts database: "db/posts.db" found
+[12.09.24|05:23:19.837730|UTC]	Table: "posts" found in "db/posts.db"
+[12.09.24|05:23:19.868507|UTC]	Comments database: "db/comments.db" found
+[12.09.24|05:23:19.975220|UTC]	Table: "comments" found in "db/comments.db"
+[12.09.24|05:23:20.044828|UTC]	Running on http://172.23.0.2:5000
+[12.09.24|12:11:03.533794|UTC]	Starting...
+[12.09.24|12:11:03.605917|UTC]	Werkzeug default logger is disabled
+[12.09.24|12:11:03.628630|UTC]	Custom logger is enabled
+[12.09.24|12:11:03.651238|UTC]	Debug mode: True
+[12.09.24|12:11:03.672703|UTC]	Name: flaskBlog
+[12.09.24|12:11:03.695270|UTC]	Version: 2.0.0
+[12.09.24|12:11:03.718748|UTC]	Host: 172.23.0.2
+[12.09.24|12:11:03.741699|UTC]	Port: 5000
+[12.09.24|12:11:03.764424|UTC]	Secret key: 4crfP7JqVTmq5UE1grZX22wJKcMnjeePD4bvwxmenaQ
+[12.09.24|12:11:03.786601|UTC]	Session permanent: True
+[12.09.24|12:11:03.808265|UTC]	Root path: .
+[12.09.24|12:11:03.830441|UTC]	Log folder root: log/
+[12.09.24|12:11:03.853550|UTC]	Log file root: log/log.log
+[12.09.24|12:11:03.875989|UTC]	Log app file root: log/logApp.log
+[12.09.24|12:11:03.898987|UTC]	Log danger file root: log/logDanger.log
+[12.09.24|12:11:03.921149|UTC]	Log success file root: log/logSuccess.log
+[12.09.24|12:11:03.942956|UTC]	Log info file root: log/logInfo.log
+[12.09.24|12:11:03.965528|UTC]	Log warning file root: log/logWarning.log
+[12.09.24|12:11:03.990262|UTC]	Log in: True
+[12.09.24|12:11:04.012535|UTC]	Registration: True
+[12.09.24|12:11:04.035398|UTC]	UI: tailwindUI
+[12.09.24|12:11:04.066823|UTC]	Template folder: templates/tailwindUI
+[12.09.24|12:11:04.090349|UTC]	Static folder: static/tailwindUI
+[12.09.24|12:11:04.114567|UTC]	SMTP server: smtp.gmail.com
+[12.09.24|12:11:04.137216|UTC]	SMTP port: 587
+[12.09.24|12:11:04.159491|UTC]	SMTP mail: sumonpaul267@gmail.com
+[12.09.24|12:11:04.182940|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[12.09.24|12:11:04.205238|UTC]	reCAPTCHA is off
+[12.09.24|12:11:04.227750|UTC]	Default admin is on
+[12.09.24|12:11:04.250905|UTC]	Default admin username: admin
+[12.09.24|12:11:04.274611|UTC]	Default admin email: admin@flaskblog.com
+[12.09.24|12:11:04.296425|UTC]	Default admin password: admin
+[12.09.24|12:11:04.319296|UTC]	Default admin point: 0
+[12.09.24|12:11:04.341419|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[12.09.24|12:11:04.363615|UTC]	Database folder: "/db/" found
+[12.09.24|12:11:04.387147|UTC]	Users database: "db/users.db" found
+[12.09.24|12:11:04.457332|UTC]	Table: "users" found in "db/users.db"
+[12.09.24|12:11:04.480656|UTC]	Posts database: "db/posts.db" found
+[12.09.24|12:11:04.553034|UTC]	Table: "posts" found in "db/posts.db"
+[12.09.24|12:11:04.576919|UTC]	Comments database: "db/comments.db" found
+[12.09.24|12:11:04.655648|UTC]	Table: "comments" found in "db/comments.db"
+[12.09.24|12:11:04.699803|UTC]	Running on http://172.23.0.2:5000
+[13.09.24|10:43:18.179692|UTC]	Starting...
+[13.09.24|10:43:18.350583|UTC]	Werkzeug default logger is disabled
+[13.09.24|10:43:18.385723|UTC]	Custom logger is enabled
+[13.09.24|10:43:18.417444|UTC]	Debug mode: True
+[13.09.24|10:43:18.449535|UTC]	Name: flaskBlog
+[13.09.24|10:43:18.480252|UTC]	Version: 2.0.0
+[13.09.24|10:43:18.502911|UTC]	Host: 172.23.0.2
+[13.09.24|10:43:18.536122|UTC]	Port: 5000
+[13.09.24|10:43:18.569976|UTC]	Secret key: 5pXWw8G3z5vuRh-IBxpvyfW4cj5J3Gkm5jo2LccJ6ig
+[13.09.24|10:43:18.604369|UTC]	Session permanent: True
+[13.09.24|10:43:18.640073|UTC]	Root path: .
+[13.09.24|10:43:18.673245|UTC]	Log folder root: log/
+[13.09.24|10:43:18.717815|UTC]	Log file root: log/log.log
+[13.09.24|10:43:18.751965|UTC]	Log app file root: log/logApp.log
+[13.09.24|10:43:18.785784|UTC]	Log danger file root: log/logDanger.log
+[13.09.24|10:43:18.818388|UTC]	Log success file root: log/logSuccess.log
+[13.09.24|10:43:18.860932|UTC]	Log info file root: log/logInfo.log
+[13.09.24|10:43:18.894064|UTC]	Log warning file root: log/logWarning.log
+[13.09.24|10:43:18.921846|UTC]	Log in: True
+[13.09.24|10:43:18.954220|UTC]	Registration: True
+[13.09.24|10:43:18.987307|UTC]	UI: tailwindUI
+[13.09.24|10:43:19.016804|UTC]	Template folder: templates/tailwindUI
+[13.09.24|10:43:19.039057|UTC]	Static folder: static/tailwindUI
+[13.09.24|10:43:19.072426|UTC]	SMTP server: smtp.gmail.com
+[13.09.24|10:43:19.106172|UTC]	SMTP port: 587
+[13.09.24|10:43:19.137994|UTC]	SMTP mail: sumonpaul267@gmail.com
+[13.09.24|10:43:19.174297|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[13.09.24|10:43:19.205829|UTC]	reCAPTCHA is off
+[13.09.24|10:43:19.239615|UTC]	Default admin is on
+[13.09.24|10:43:19.272557|UTC]	Default admin username: admin
+[13.09.24|10:43:19.304127|UTC]	Default admin email: admin@flaskblog.com
+[13.09.24|10:43:19.336438|UTC]	Default admin password: admin
+[13.09.24|10:43:19.369238|UTC]	Default admin point: 0
+[13.09.24|10:43:19.400364|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[13.09.24|10:43:19.431980|UTC]	Database folder: "/db/" found
+[13.09.24|10:43:19.456203|UTC]	Users database: "db/users.db" found
+[13.09.24|10:43:19.564286|UTC]	Table: "users" found in "db/users.db"
+[13.09.24|10:43:19.604956|UTC]	Posts database: "db/posts.db" found
+[13.09.24|10:43:19.705968|UTC]	Table: "posts" found in "db/posts.db"
+[13.09.24|10:43:19.731959|UTC]	Comments database: "db/comments.db" found
+[13.09.24|10:43:19.810944|UTC]	Table: "comments" found in "db/comments.db"
+[13.09.24|10:43:19.861030|UTC]	Running on http://172.23.0.2:5000
+[13.09.24|10:43:20.524570|UTC]	Starting...
+[13.09.24|10:43:20.714326|UTC]	Werkzeug default logger is disabled
+[13.09.24|10:43:20.757139|UTC]	Custom logger is enabled
+[13.09.24|10:43:20.804485|UTC]	Debug mode: True
+[13.09.24|10:43:20.842910|UTC]	Name: flaskBlog
+[13.09.24|10:43:20.887994|UTC]	Version: 2.0.0
+[13.09.24|10:43:20.936462|UTC]	Host: 172.23.0.2
+[13.09.24|10:43:20.978461|UTC]	Port: 5000
+[13.09.24|10:43:21.026832|UTC]	Secret key: pW9broV77HhESCwBWBgJZc6rsHRzr1m4xzisXDyCUCM
+[13.09.24|10:43:21.074793|UTC]	Session permanent: True
+[13.09.24|10:43:21.117906|UTC]	Root path: .
+[13.09.24|10:43:21.160892|UTC]	Log folder root: log/
+[13.09.24|10:43:21.214729|UTC]	Log file root: log/log.log
+[13.09.24|10:43:21.262898|UTC]	Log app file root: log/logApp.log
+[13.09.24|10:43:21.311031|UTC]	Log danger file root: log/logDanger.log
+[13.09.24|10:43:21.354233|UTC]	Log success file root: log/logSuccess.log
+[13.09.24|10:43:21.401544|UTC]	Log info file root: log/logInfo.log
+[13.09.24|10:43:21.453850|UTC]	Log warning file root: log/logWarning.log
+[13.09.24|10:43:21.496854|UTC]	Log in: True
+[13.09.24|10:43:21.534281|UTC]	Registration: True
+[13.09.24|10:43:21.577445|UTC]	UI: tailwindUI
+[13.09.24|10:43:21.625411|UTC]	Template folder: templates/tailwindUI
+[13.09.24|10:43:21.668565|UTC]	Static folder: static/tailwindUI
+[13.09.24|10:43:21.972876|UTC]	SMTP server: smtp.gmail.com
+[13.09.24|10:43:22.101144|UTC]	SMTP port: 587
+[13.09.24|10:43:22.144204|UTC]	SMTP mail: sumonpaul267@gmail.com
+[13.09.24|10:43:22.190200|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[13.09.24|10:43:22.235485|UTC]	reCAPTCHA is off
+[13.09.24|10:43:22.273279|UTC]	Default admin is on
+[13.09.24|10:43:22.332086|UTC]	Default admin username: admin
+[13.09.24|10:43:22.385815|UTC]	Default admin email: admin@flaskblog.com
+[13.09.24|10:43:22.428433|UTC]	Default admin password: admin
+[13.09.24|10:43:22.476867|UTC]	Default admin point: 0
+[13.09.24|10:43:22.524952|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[13.09.24|10:43:22.568002|UTC]	Database folder: "/db/" found
+[13.09.24|10:43:22.610773|UTC]	Users database: "db/users.db" found
+[13.09.24|10:43:22.716563|UTC]	Table: "users" found in "db/users.db"
+[13.09.24|10:43:22.744196|UTC]	Posts database: "db/posts.db" found
+[13.09.24|10:43:22.847815|UTC]	Table: "posts" found in "db/posts.db"
+[13.09.24|10:43:22.885577|UTC]	Comments database: "db/comments.db" found
+[13.09.24|10:43:22.984765|UTC]	Table: "comments" found in "db/comments.db"
+[13.09.24|10:43:23.036560|UTC]	Running on http://172.23.0.2:5000
+[14.09.24|06:14:48.938604|UTC]	Starting...
+[14.09.24|06:14:49.163513|UTC]	Werkzeug default logger is disabled
+[14.09.24|06:14:49.203089|UTC]	Custom logger is enabled
+[14.09.24|06:14:49.234801|UTC]	Debug mode: True
+[14.09.24|06:14:49.267913|UTC]	Name: flaskBlog
+[14.09.24|06:14:49.303822|UTC]	Version: 2.0.0
+[14.09.24|06:14:49.335446|UTC]	Host: 172.23.0.2
+[14.09.24|06:14:49.369834|UTC]	Port: 5000
+[14.09.24|06:14:49.397037|UTC]	Secret key: u3gwn3C93V48FwfPmPvKeOjhYQInVQ10CVIeybuslZ8
+[14.09.24|06:14:49.438628|UTC]	Session permanent: True
+[14.09.24|06:14:49.471912|UTC]	Root path: .
+[14.09.24|06:14:49.499099|UTC]	Log folder root: log/
+[14.09.24|06:14:49.546040|UTC]	Log file root: log/log.log
+[14.09.24|06:14:49.582883|UTC]	Log app file root: log/logApp.log
+[14.09.24|06:14:49.616940|UTC]	Log danger file root: log/logDanger.log
+[14.09.24|06:14:49.644608|UTC]	Log success file root: log/logSuccess.log
+[14.09.24|06:14:49.676664|UTC]	Log info file root: log/logInfo.log
+[14.09.24|06:14:49.710484|UTC]	Log warning file root: log/logWarning.log
+[14.09.24|06:14:49.743519|UTC]	Log in: True
+[14.09.24|06:14:49.771040|UTC]	Registration: True
+[14.09.24|06:14:49.798721|UTC]	UI: tailwindUI
+[14.09.24|06:14:49.831892|UTC]	Template folder: templates/tailwindUI
+[14.09.24|06:14:49.865022|UTC]	Static folder: static/tailwindUI
+[14.09.24|06:14:49.898229|UTC]	SMTP server: smtp.gmail.com
+[14.09.24|06:14:49.931374|UTC]	SMTP port: 587
+[14.09.24|06:14:49.963565|UTC]	SMTP mail: sumonpaul267@gmail.com
+[14.09.24|06:14:50.006121|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[14.09.24|06:14:50.037403|UTC]	reCAPTCHA is off
+[14.09.24|06:14:50.069513|UTC]	Default admin is on
+[14.09.24|06:14:50.103379|UTC]	Default admin username: admin
+[14.09.24|06:14:50.134734|UTC]	Default admin email: admin@flaskblog.com
+[14.09.24|06:14:50.166547|UTC]	Default admin password: admin
+[14.09.24|06:14:50.198524|UTC]	Default admin point: 0
+[14.09.24|06:14:50.225317|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[14.09.24|06:14:50.252674|UTC]	Database folder: "/db/" found
+[14.09.24|06:14:50.285402|UTC]	Users database: "db/users.db" found
+[14.09.24|06:14:50.392526|UTC]	Table: "users" found in "db/users.db"
+[14.09.24|06:14:50.434094|UTC]	Posts database: "db/posts.db" found
+[14.09.24|06:14:50.544088|UTC]	Table: "posts" found in "db/posts.db"
+[14.09.24|06:14:50.577167|UTC]	Comments database: "db/comments.db" found
+[14.09.24|06:14:50.690394|UTC]	Table: "comments" found in "db/comments.db"
+[14.09.24|06:14:50.755774|UTC]	Running on http://172.23.0.2:5000
+[14.09.24|06:14:51.297944|UTC]	Starting...
+[14.09.24|06:14:51.459942|UTC]	Werkzeug default logger is disabled
+[14.09.24|06:14:51.492322|UTC]	Custom logger is enabled
+[14.09.24|06:14:51.528901|UTC]	Debug mode: True
+[14.09.24|06:14:51.564478|UTC]	Name: flaskBlog
+[14.09.24|06:14:51.589337|UTC]	Version: 2.0.0
+[14.09.24|06:14:51.619273|UTC]	Host: 172.23.0.2
+[14.09.24|06:14:51.651204|UTC]	Port: 5000
+[14.09.24|06:14:51.697156|UTC]	Secret key: 8Io6FnftEasPiDifpsUSuLutOuPxOtCT8k7vqdXaFo8
+[14.09.24|06:14:51.726788|UTC]	Session permanent: True
+[14.09.24|06:14:51.760958|UTC]	Root path: .
+[14.09.24|06:14:51.793306|UTC]	Log folder root: log/
+[14.09.24|06:14:51.834417|UTC]	Log file root: log/log.log
+[14.09.24|06:14:51.900212|UTC]	Log app file root: log/logApp.log
+[14.09.24|06:14:51.948279|UTC]	Log danger file root: log/logDanger.log
+[14.09.24|06:14:51.991267|UTC]	Log success file root: log/logSuccess.log
+[14.09.24|06:14:52.033942|UTC]	Log info file root: log/logInfo.log
+[14.09.24|06:14:52.093164|UTC]	Log warning file root: log/logWarning.log
+[14.09.24|06:14:52.146544|UTC]	Log in: True
+[14.09.24|06:14:52.189512|UTC]	Registration: True
+[14.09.24|06:14:52.237602|UTC]	UI: tailwindUI
+[14.09.24|06:14:52.285964|UTC]	Template folder: templates/tailwindUI
+[14.09.24|06:14:52.328588|UTC]	Static folder: static/tailwindUI
+[14.09.24|06:14:52.376970|UTC]	SMTP server: smtp.gmail.com
+[14.09.24|06:14:52.403174|UTC]	SMTP port: 587
+[14.09.24|06:14:52.955945|UTC]	SMTP mail: sumonpaul267@gmail.com
+[14.09.24|06:14:53.260099|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[14.09.24|06:14:53.303115|UTC]	reCAPTCHA is off
+[14.09.24|06:14:53.351153|UTC]	Default admin is on
+[14.09.24|06:14:53.394182|UTC]	Default admin username: admin
+[14.09.24|06:14:53.436798|UTC]	Default admin email: admin@flaskblog.com
+[14.09.24|06:14:53.485202|UTC]	Default admin password: admin
+[14.09.24|06:14:53.538653|UTC]	Default admin point: 0
+[14.09.24|06:14:53.581665|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[14.09.24|06:14:53.629793|UTC]	Database folder: "/db/" found
+[14.09.24|06:14:53.672800|UTC]	Users database: "db/users.db" found
+[14.09.24|06:14:53.789474|UTC]	Table: "users" found in "db/users.db"
+[14.09.24|06:14:53.846852|UTC]	Posts database: "db/posts.db" found
+[14.09.24|06:14:53.959474|UTC]	Table: "posts" found in "db/posts.db"
+[14.09.24|06:14:53.995798|UTC]	Comments database: "db/comments.db" found
+[14.09.24|06:14:54.103921|UTC]	Table: "comments" found in "db/comments.db"
+[14.09.24|06:14:54.148218|UTC]	Running on http://172.23.0.2:5000
+[14.09.24|13:25:43.973561|UTC]	Starting...
+[14.09.24|13:25:44.191253|UTC]	Werkzeug default logger is disabled
+[14.09.24|13:25:44.226821|UTC]	Custom logger is enabled
+[14.09.24|13:25:44.258055|UTC]	Debug mode: True
+[14.09.24|13:25:44.299075|UTC]	Name: flaskBlog
+[14.09.24|13:25:44.335704|UTC]	Version: 2.0.0
+[14.09.24|13:25:44.366754|UTC]	Host: 172.23.0.2
+[14.09.24|13:25:44.399372|UTC]	Port: 5000
+[14.09.24|13:25:44.438797|UTC]	Secret key: SkSZNLNqxBcAkzpHlwGgPjEDwb3sC3F5_Gw0xugS2yQ
+[14.09.24|13:25:44.472035|UTC]	Session permanent: True
+[14.09.24|13:25:44.506359|UTC]	Root path: .
+[14.09.24|13:25:44.536903|UTC]	Log folder root: log/
+[14.09.24|13:25:44.568526|UTC]	Log file root: log/log.log
+[14.09.24|13:25:44.601098|UTC]	Log app file root: log/logApp.log
+[14.09.24|13:25:44.630200|UTC]	Log danger file root: log/logDanger.log
+[14.09.24|13:25:44.664812|UTC]	Log success file root: log/logSuccess.log
+[14.09.24|13:25:44.697244|UTC]	Log info file root: log/logInfo.log
+[14.09.24|13:25:44.728820|UTC]	Log warning file root: log/logWarning.log
+[14.09.24|13:25:44.762793|UTC]	Log in: True
+[14.09.24|13:25:44.794731|UTC]	Registration: True
+[14.09.24|13:25:44.827385|UTC]	UI: tailwindUI
+[14.09.24|13:25:44.860306|UTC]	Template folder: templates/tailwindUI
+[14.09.24|13:25:44.901492|UTC]	Static folder: static/tailwindUI
+[14.09.24|13:25:44.932721|UTC]	SMTP server: smtp.gmail.com
+[14.09.24|13:25:44.965231|UTC]	SMTP port: 587
+[14.09.24|13:25:44.997839|UTC]	SMTP mail: sumonpaul267@gmail.com
+[14.09.24|13:25:45.029590|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[14.09.24|13:25:45.053161|UTC]	reCAPTCHA is off
+[14.09.24|13:25:45.085284|UTC]	Default admin is on
+[14.09.24|13:25:45.117964|UTC]	Default admin username: admin
+[14.09.24|13:25:45.152007|UTC]	Default admin email: admin@flaskblog.com
+[14.09.24|13:25:45.185497|UTC]	Default admin password: admin
+[14.09.24|13:25:45.218133|UTC]	Default admin point: 0
+[14.09.24|13:25:45.251740|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[14.09.24|13:25:45.285704|UTC]	Database folder: "/db/" found
+[14.09.24|13:25:45.338734|UTC]	Users database: "db/users.db" found
+[14.09.24|13:25:45.432681|UTC]	Table: "users" found in "db/users.db"
+[14.09.24|13:25:45.455209|UTC]	Posts database: "db/posts.db" found
+[14.09.24|13:25:45.532694|UTC]	Table: "posts" found in "db/posts.db"
+[14.09.24|13:25:45.559964|UTC]	Comments database: "db/comments.db" found
+[14.09.24|13:25:45.657130|UTC]	Table: "comments" found in "db/comments.db"
+[14.09.24|13:25:45.702890|UTC]	Running on http://172.23.0.2:5000
+[14.09.24|13:25:46.355180|UTC]	Starting...
+[14.09.24|13:25:46.566479|UTC]	Werkzeug default logger is disabled
+[14.09.24|13:25:46.769331|UTC]	Custom logger is enabled
+[14.09.24|13:25:46.817646|UTC]	Debug mode: True
+[14.09.24|13:25:46.860282|UTC]	Name: flaskBlog
+[14.09.24|13:25:46.908744|UTC]	Version: 2.0.0
+[14.09.24|13:25:46.951378|UTC]	Host: 172.23.0.2
+[14.09.24|13:25:47.000260|UTC]	Port: 5000
+[14.09.24|13:25:47.048192|UTC]	Secret key: 8dSMKvLdWvcV4y5XYpPDUq0W8HRLaafyeQOB60Yl4cs
+[14.09.24|13:25:47.091164|UTC]	Session permanent: True
+[14.09.24|13:25:47.352222|UTC]	Root path: .
+[14.09.24|13:25:47.854172|UTC]	Log folder root: log/
+[14.09.24|13:25:47.945272|UTC]	Log file root: log/log.log
+[14.09.24|13:25:47.987726|UTC]	Log app file root: log/logApp.log
+[14.09.24|13:25:48.030831|UTC]	Log danger file root: log/logDanger.log
+[14.09.24|13:25:48.078795|UTC]	Log success file root: log/logSuccess.log
+[14.09.24|13:25:48.127163|UTC]	Log info file root: log/logInfo.log
+[14.09.24|13:25:48.180527|UTC]	Log warning file root: log/logWarning.log
+[14.09.24|13:25:48.229089|UTC]	Log in: True
+[14.09.24|13:25:48.277206|UTC]	Registration: True
+[14.09.24|13:25:48.330913|UTC]	UI: tailwindUI
+[14.09.24|13:25:48.378822|UTC]	Template folder: templates/tailwindUI
+[14.09.24|13:25:48.416450|UTC]	Static folder: static/tailwindUI
+[14.09.24|13:25:48.467804|UTC]	SMTP server: smtp.gmail.com
+[14.09.24|13:25:48.497081|UTC]	SMTP port: 587
+[14.09.24|13:25:48.523206|UTC]	SMTP mail: sumonpaul267@gmail.com
+[14.09.24|13:25:48.556233|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[14.09.24|13:25:48.590115|UTC]	reCAPTCHA is off
+[14.09.24|13:25:48.628155|UTC]	Default admin is on
+[14.09.24|13:25:48.668379|UTC]	Default admin username: admin
+[14.09.24|13:25:48.707582|UTC]	Default admin email: admin@flaskblog.com
+[14.09.24|13:25:48.743322|UTC]	Default admin password: admin
+[14.09.24|13:25:48.787315|UTC]	Default admin point: 0
+[14.09.24|13:25:48.819497|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[14.09.24|13:25:48.860307|UTC]	Database folder: "/db/" found
+[14.09.24|13:25:48.906051|UTC]	Users database: "db/users.db" found
+[14.09.24|13:25:49.021917|UTC]	Table: "users" found in "db/users.db"
+[14.09.24|13:25:49.055165|UTC]	Posts database: "db/posts.db" found
+[14.09.24|13:25:49.153150|UTC]	Table: "posts" found in "db/posts.db"
+[14.09.24|13:25:49.196117|UTC]	Comments database: "db/comments.db" found
+[14.09.24|13:25:49.335586|UTC]	Table: "comments" found in "db/comments.db"
+[14.09.24|13:25:49.405594|UTC]	Running on http://172.23.0.2:5000
+[16.09.24|07:57:44.083200|UTC]	Starting...
+[16.09.24|07:57:44.310750|UTC]	Werkzeug default logger is disabled
+[16.09.24|07:57:44.348111|UTC]	Custom logger is enabled
+[16.09.24|07:57:44.387549|UTC]	Debug mode: True
+[16.09.24|07:57:44.424058|UTC]	Name: flaskBlog
+[16.09.24|07:57:44.451106|UTC]	Version: 2.0.0
+[16.09.24|07:57:44.475823|UTC]	Host: 172.23.0.2
+[16.09.24|07:57:44.498434|UTC]	Port: 5000
+[16.09.24|07:57:44.524066|UTC]	Secret key: iT12SUIsbM-glVYtIDEFOwcmQEUrM-hteuxys5QjwR0
+[16.09.24|07:57:44.549832|UTC]	Session permanent: True
+[16.09.24|07:57:44.583320|UTC]	Root path: .
+[16.09.24|07:57:44.615230|UTC]	Log folder root: log/
+[16.09.24|07:57:44.657582|UTC]	Log file root: log/log.log
+[16.09.24|07:57:44.690673|UTC]	Log app file root: log/logApp.log
+[16.09.24|07:57:44.722505|UTC]	Log danger file root: log/logDanger.log
+[16.09.24|07:57:44.755305|UTC]	Log success file root: log/logSuccess.log
+[16.09.24|07:57:44.788540|UTC]	Log info file root: log/logInfo.log
+[16.09.24|07:57:44.823253|UTC]	Log warning file root: log/logWarning.log
+[16.09.24|07:57:44.856084|UTC]	Log in: True
+[16.09.24|07:57:44.890329|UTC]	Registration: True
+[16.09.24|07:57:44.922748|UTC]	UI: tailwindUI
+[16.09.24|07:57:44.956392|UTC]	Template folder: templates/tailwindUI
+[16.09.24|07:57:44.988582|UTC]	Static folder: static/tailwindUI
+[16.09.24|07:57:45.012265|UTC]	SMTP server: smtp.gmail.com
+[16.09.24|07:57:45.038644|UTC]	SMTP port: 587
+[16.09.24|07:57:45.078872|UTC]	SMTP mail: sumonpaul267@gmail.com
+[16.09.24|07:57:45.112710|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[16.09.24|07:57:45.143543|UTC]	reCAPTCHA is off
+[16.09.24|07:57:45.175515|UTC]	Default admin is on
+[16.09.24|07:57:45.208007|UTC]	Default admin username: admin
+[16.09.24|07:57:45.239636|UTC]	Default admin email: admin@flaskblog.com
+[16.09.24|07:57:45.271938|UTC]	Default admin password: admin
+[16.09.24|07:57:45.305999|UTC]	Default admin point: 0
+[16.09.24|07:57:45.339258|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[16.09.24|07:57:45.372951|UTC]	Database folder: "/db/" found
+[16.09.24|07:57:45.406756|UTC]	Users database: "db/users.db" found
+[16.09.24|07:57:45.534632|UTC]	Table: "users" found in "db/users.db"
+[16.09.24|07:57:45.568377|UTC]	Posts database: "db/posts.db" found
+[16.09.24|07:57:45.685887|UTC]	Table: "posts" found in "db/posts.db"
+[16.09.24|07:57:45.711501|UTC]	Comments database: "db/comments.db" found
+[16.09.24|07:57:45.821521|UTC]	Table: "comments" found in "db/comments.db"
+[16.09.24|07:57:45.917236|UTC]	Running on http://172.23.0.2:5000
+[16.09.24|07:57:46.770120|UTC]	Starting...
+[16.09.24|07:57:47.013533|UTC]	Werkzeug default logger is disabled
+[16.09.24|07:57:47.067618|UTC]	Custom logger is enabled
+[16.09.24|07:57:47.110449|UTC]	Debug mode: True
+[16.09.24|07:57:47.162213|UTC]	Name: flaskBlog
+[16.09.24|07:57:47.212517|UTC]	Version: 2.0.0
+[16.09.24|07:57:47.256354|UTC]	Host: 172.23.0.2
+[16.09.24|07:57:47.305836|UTC]	Port: 5000
+[16.09.24|07:57:47.675649|UTC]	Secret key: ucV-p5hpa1tVETGxsjjqnzjhwhe4pPPqMGDtBk77h9o
+[16.09.24|07:57:48.052288|UTC]	Session permanent: True
+[16.09.24|07:57:48.103228|UTC]	Root path: .
+[16.09.24|07:57:48.156760|UTC]	Log folder root: log/
+[16.09.24|07:57:48.199522|UTC]	Log file root: log/log.log
+[16.09.24|07:57:48.242276|UTC]	Log app file root: log/logApp.log
+[16.09.24|07:57:48.301453|UTC]	Log danger file root: log/logDanger.log
+[16.09.24|07:57:48.348697|UTC]	Log success file root: log/logSuccess.log
+[16.09.24|07:57:48.402297|UTC]	Log info file root: log/logInfo.log
+[16.09.24|07:57:48.447998|UTC]	Log warning file root: log/logWarning.log
+[16.09.24|07:57:48.482484|UTC]	Log in: True
+[16.09.24|07:57:48.530592|UTC]	Registration: True
+[16.09.24|07:57:48.578969|UTC]	UI: tailwindUI
+[16.09.24|07:57:48.615378|UTC]	Template folder: templates/tailwindUI
+[16.09.24|07:57:48.655765|UTC]	Static folder: static/tailwindUI
+[16.09.24|07:57:48.683086|UTC]	SMTP server: smtp.gmail.com
+[16.09.24|07:57:48.723035|UTC]	SMTP port: 587
+[16.09.24|07:57:48.762807|UTC]	SMTP mail: sumonpaul267@gmail.com
+[16.09.24|07:57:48.810309|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[16.09.24|07:57:48.859758|UTC]	reCAPTCHA is off
+[16.09.24|07:57:48.895678|UTC]	Default admin is on
+[16.09.24|07:57:48.948907|UTC]	Default admin username: admin
+[16.09.24|07:57:49.013885|UTC]	Default admin email: admin@flaskblog.com
+[16.09.24|07:57:49.056389|UTC]	Default admin password: admin
+[16.09.24|07:57:49.102590|UTC]	Default admin point: 0
+[16.09.24|07:57:49.133750|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[16.09.24|07:57:49.164550|UTC]	Database folder: "/db/" found
+[16.09.24|07:57:49.196346|UTC]	Users database: "db/users.db" found
+[16.09.24|07:57:49.321658|UTC]	Table: "users" found in "db/users.db"
+[16.09.24|07:57:49.362560|UTC]	Posts database: "db/posts.db" found
+[16.09.24|07:57:49.487369|UTC]	Table: "posts" found in "db/posts.db"
+[16.09.24|07:57:49.515320|UTC]	Comments database: "db/comments.db" found
+[16.09.24|07:57:49.649703|UTC]	Table: "comments" found in "db/comments.db"
+[16.09.24|07:57:49.727515|UTC]	Running on http://172.23.0.2:5000
+[16.09.24|10:26:12.526129|UTC]	Starting...
+[16.09.24|10:26:12.673378|UTC]	Werkzeug default logger is disabled
+[16.09.24|10:26:12.696599|UTC]	Custom logger is enabled
+[16.09.24|10:26:12.718578|UTC]	Debug mode: True
+[16.09.24|10:26:12.742913|UTC]	Name: flaskBlog
+[16.09.24|10:26:12.765885|UTC]	Version: 2.0.0
+[16.09.24|10:26:12.788367|UTC]	Host: 172.23.0.2
+[16.09.24|10:26:12.812014|UTC]	Port: 5000
+[16.09.24|10:26:12.834066|UTC]	Secret key: m1YrNlKX1_FZQQ2a_UHZdeEwGndyHpFcyox6dk9MjcA
+[16.09.24|10:26:12.856196|UTC]	Session permanent: True
+[16.09.24|10:26:12.879520|UTC]	Root path: .
+[16.09.24|10:26:12.904037|UTC]	Log folder root: log/
+[16.09.24|10:26:12.926732|UTC]	Log file root: log/log.log
+[16.09.24|10:26:12.950365|UTC]	Log app file root: log/logApp.log
+[16.09.24|10:26:12.972939|UTC]	Log danger file root: log/logDanger.log
+[16.09.24|10:26:13.002719|UTC]	Log success file root: log/logSuccess.log
+[16.09.24|10:26:13.030229|UTC]	Log info file root: log/logInfo.log
+[16.09.24|10:26:13.053669|UTC]	Log warning file root: log/logWarning.log
+[16.09.24|10:26:13.076840|UTC]	Log in: True
+[16.09.24|10:26:13.101067|UTC]	Registration: True
+[16.09.24|10:26:13.124819|UTC]	UI: tailwindUI
+[16.09.24|10:26:13.148931|UTC]	Template folder: templates/tailwindUI
+[16.09.24|10:26:13.172640|UTC]	Static folder: static/tailwindUI
+[16.09.24|10:26:13.197283|UTC]	SMTP server: smtp.gmail.com
+[16.09.24|10:26:13.220977|UTC]	SMTP port: 587
+[16.09.24|10:26:13.245015|UTC]	SMTP mail: sumonpaul267@gmail.com
+[16.09.24|10:26:13.268338|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[16.09.24|10:26:13.292256|UTC]	reCAPTCHA is off
+[16.09.24|10:26:13.316953|UTC]	Default admin is on
+[16.09.24|10:26:13.339523|UTC]	Default admin username: admin
+[16.09.24|10:26:13.362006|UTC]	Default admin email: admin@flaskblog.com
+[16.09.24|10:26:13.385833|UTC]	Default admin password: admin
+[16.09.24|10:26:13.409180|UTC]	Default admin point: 0
+[16.09.24|10:26:13.432433|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[16.09.24|10:26:13.456020|UTC]	Database folder: "/db/" found
+[16.09.24|10:26:13.481776|UTC]	Users database: "db/users.db" found
+[16.09.24|10:26:13.561149|UTC]	Table: "users" found in "db/users.db"
+[16.09.24|10:26:13.584757|UTC]	Posts database: "db/posts.db" found
+[16.09.24|10:26:13.670638|UTC]	Table: "posts" found in "db/posts.db"
+[16.09.24|10:26:13.696101|UTC]	Comments database: "db/comments.db" found
+[16.09.24|10:26:13.774680|UTC]	Table: "comments" found in "db/comments.db"
+[16.09.24|10:26:13.828887|UTC]	Running on http://172.23.0.2:5000
+[16.09.24|10:26:14.266589|UTC]	Starting...
+[16.09.24|10:26:14.340389|UTC]	Werkzeug default logger is disabled
+[16.09.24|10:26:14.364683|UTC]	Custom logger is enabled
+[16.09.24|10:26:14.387355|UTC]	Debug mode: True
+[16.09.24|10:26:14.409757|UTC]	Name: flaskBlog
+[16.09.24|10:26:14.433413|UTC]	Version: 2.0.0
+[16.09.24|10:26:14.456143|UTC]	Host: 172.23.0.2
+[16.09.24|10:26:14.478831|UTC]	Port: 5000
+[16.09.24|10:26:14.502687|UTC]	Secret key: NwgkHXfCc04thI6isSn2ABK-fMry5lwzHXMwvH_FIzE
+[16.09.24|10:26:14.525871|UTC]	Session permanent: True
+[16.09.24|10:26:14.549775|UTC]	Root path: .
+[16.09.24|10:26:14.573388|UTC]	Log folder root: log/
+[16.09.24|10:26:14.596309|UTC]	Log file root: log/log.log
+[16.09.24|10:26:14.619157|UTC]	Log app file root: log/logApp.log
+[16.09.24|10:26:14.642648|UTC]	Log danger file root: log/logDanger.log
+[16.09.24|10:26:14.665853|UTC]	Log success file root: log/logSuccess.log
+[16.09.24|10:26:14.695399|UTC]	Log info file root: log/logInfo.log
+[16.09.24|10:26:14.721112|UTC]	Log warning file root: log/logWarning.log
+[16.09.24|10:26:14.743678|UTC]	Log in: True
+[16.09.24|10:26:14.766622|UTC]	Registration: True
+[16.09.24|10:26:14.790603|UTC]	UI: tailwindUI
+[16.09.24|10:26:14.813575|UTC]	Template folder: templates/tailwindUI
+[16.09.24|10:26:14.838520|UTC]	Static folder: static/tailwindUI
+[16.09.24|10:26:14.863035|UTC]	SMTP server: smtp.gmail.com
+[16.09.24|10:26:14.886038|UTC]	SMTP port: 587
+[16.09.24|10:26:14.908807|UTC]	SMTP mail: sumonpaul267@gmail.com
+[16.09.24|10:26:14.932981|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[16.09.24|10:26:14.956236|UTC]	reCAPTCHA is off
+[16.09.24|10:26:14.979656|UTC]	Default admin is on
+[16.09.24|10:26:15.004063|UTC]	Default admin username: admin
+[16.09.24|10:26:15.026867|UTC]	Default admin email: admin@flaskblog.com
+[16.09.24|10:26:15.050935|UTC]	Default admin password: admin
+[16.09.24|10:26:15.075538|UTC]	Default admin point: 0
+[16.09.24|10:26:15.099077|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[16.09.24|10:26:15.124327|UTC]	Database folder: "/db/" found
+[16.09.24|10:26:15.148907|UTC]	Users database: "db/users.db" found
+[16.09.24|10:26:15.219628|UTC]	Table: "users" found in "db/users.db"
+[16.09.24|10:26:15.242699|UTC]	Posts database: "db/posts.db" found
+[16.09.24|10:26:15.322642|UTC]	Table: "posts" found in "db/posts.db"
+[16.09.24|10:26:15.345919|UTC]	Comments database: "db/comments.db" found
+[16.09.24|10:26:15.425204|UTC]	Table: "comments" found in "db/comments.db"
+[16.09.24|10:26:15.481770|UTC]	Running on http://172.23.0.2:5000
+[16.09.24|14:36:21.144060|UTC]	Starting...
+[16.09.24|14:36:21.362373|UTC]	Werkzeug default logger is disabled
+[16.09.24|14:36:21.398187|UTC]	Custom logger is enabled
+[16.09.24|14:36:21.432910|UTC]	Debug mode: True
+[16.09.24|14:36:21.463968|UTC]	Name: flaskBlog
+[16.09.24|14:36:21.496160|UTC]	Version: 2.0.0
+[16.09.24|14:36:21.530436|UTC]	Host: 172.23.0.2
+[16.09.24|14:36:21.566452|UTC]	Port: 5000
+[16.09.24|14:36:21.599966|UTC]	Secret key: i0M5gH7h_yeKlcuCS6iWzqEODv3Z-tEy8ZdSMoa3778
+[16.09.24|14:36:21.631639|UTC]	Session permanent: True
+[16.09.24|14:36:21.673040|UTC]	Root path: .
+[16.09.24|14:36:21.714917|UTC]	Log folder root: log/
+[16.09.24|14:36:21.748383|UTC]	Log file root: log/log.log
+[16.09.24|14:36:21.781036|UTC]	Log app file root: log/logApp.log
+[16.09.24|14:36:21.813627|UTC]	Log danger file root: log/logDanger.log
+[16.09.24|14:36:21.845096|UTC]	Log success file root: log/logSuccess.log
+[16.09.24|14:36:21.875345|UTC]	Log info file root: log/logInfo.log
+[16.09.24|14:36:21.907177|UTC]	Log warning file root: log/logWarning.log
+[16.09.24|14:36:21.939407|UTC]	Log in: True
+[16.09.24|14:36:21.971866|UTC]	Registration: True
+[16.09.24|14:36:22.002740|UTC]	UI: tailwindUI
+[16.09.24|14:36:22.035241|UTC]	Template folder: templates/tailwindUI
+[16.09.24|14:36:22.067495|UTC]	Static folder: static/tailwindUI
+[16.09.24|14:36:22.107339|UTC]	SMTP server: smtp.gmail.com
+[16.09.24|14:36:22.142389|UTC]	SMTP port: 587
+[16.09.24|14:36:22.174920|UTC]	SMTP mail: sumonpaul267@gmail.com
+[16.09.24|14:36:22.207169|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[16.09.24|14:36:22.241605|UTC]	reCAPTCHA is off
+[16.09.24|14:36:22.272763|UTC]	Default admin is on
+[16.09.24|14:36:22.306315|UTC]	Default admin username: admin
+[16.09.24|14:36:22.339995|UTC]	Default admin email: admin@flaskblog.com
+[16.09.24|14:36:22.373782|UTC]	Default admin password: admin
+[16.09.24|14:36:22.406418|UTC]	Default admin point: 0
+[16.09.24|14:36:22.441075|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[16.09.24|14:36:22.474293|UTC]	Database folder: "/db/" found
+[16.09.24|14:36:22.507280|UTC]	Users database: "db/users.db" found
+[16.09.24|14:36:22.622193|UTC]	Table: "users" found in "db/users.db"
+[16.09.24|14:36:22.658834|UTC]	Posts database: "db/posts.db" found
+[16.09.24|14:36:22.761339|UTC]	Table: "posts" found in "db/posts.db"
+[16.09.24|14:36:22.794746|UTC]	Comments database: "db/comments.db" found
+[16.09.24|14:36:22.876645|UTC]	Table: "comments" found in "db/comments.db"
+[16.09.24|14:36:22.957376|UTC]	Running on http://172.23.0.2:5000
+[16.09.24|14:36:23.816796|UTC]	Starting...
+[16.09.24|14:36:24.059238|UTC]	Werkzeug default logger is disabled
+[16.09.24|14:36:24.113234|UTC]	Custom logger is enabled
+[16.09.24|14:36:24.161325|UTC]	Debug mode: True
+[16.09.24|14:36:24.215196|UTC]	Name: flaskBlog
+[16.09.24|14:36:24.258401|UTC]	Version: 2.0.0
+[16.09.24|14:36:24.308179|UTC]	Host: 172.23.0.2
+[16.09.24|14:36:24.520636|UTC]	Port: 5000
+[16.09.24|14:36:24.981066|UTC]	Secret key: 9QB8p0FHBWHr_hW-nLTHfrI-th6sI8HP8LlI4aTnEDk
+[16.09.24|14:36:25.023876|UTC]	Session permanent: True
+[16.09.24|14:36:25.072512|UTC]	Root path: .
+[16.09.24|14:36:25.116655|UTC]	Log folder root: log/
+[16.09.24|14:36:25.169563|UTC]	Log file root: log/log.log
+[16.09.24|14:36:25.222350|UTC]	Log app file root: log/logApp.log
+[16.09.24|14:36:25.270572|UTC]	Log danger file root: log/logDanger.log
+[16.09.24|14:36:25.313863|UTC]	Log success file root: log/logSuccess.log
+[16.09.24|14:36:25.361369|UTC]	Log info file root: log/logInfo.log
+[16.09.24|14:36:25.405352|UTC]	Log warning file root: log/logWarning.log
+[16.09.24|14:36:25.458957|UTC]	Log in: True
+[16.09.24|14:36:25.507559|UTC]	Registration: True
+[16.09.24|14:36:25.566685|UTC]	UI: tailwindUI
+[16.09.24|14:36:25.620873|UTC]	Template folder: templates/tailwindUI
+[16.09.24|14:36:25.650720|UTC]	Static folder: static/tailwindUI
+[16.09.24|14:36:25.694812|UTC]	SMTP server: smtp.gmail.com
+[16.09.24|14:36:25.733334|UTC]	SMTP port: 587
+[16.09.24|14:36:25.771792|UTC]	SMTP mail: sumonpaul267@gmail.com
+[16.09.24|14:36:25.808505|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[16.09.24|14:36:25.850162|UTC]	reCAPTCHA is off
+[16.09.24|14:36:25.912831|UTC]	Default admin is on
+[16.09.24|14:36:25.955781|UTC]	Default admin username: admin
+[16.09.24|14:36:25.996821|UTC]	Default admin email: admin@flaskblog.com
+[16.09.24|14:36:26.036804|UTC]	Default admin password: admin
+[16.09.24|14:36:26.064654|UTC]	Default admin point: 0
+[16.09.24|14:36:26.096655|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[16.09.24|14:36:26.129978|UTC]	Database folder: "/db/" found
+[16.09.24|14:36:26.172675|UTC]	Users database: "db/users.db" found
+[16.09.24|14:36:26.297896|UTC]	Table: "users" found in "db/users.db"
+[16.09.24|14:36:26.341888|UTC]	Posts database: "db/posts.db" found
+[16.09.24|14:36:26.456888|UTC]	Table: "posts" found in "db/posts.db"
+[16.09.24|14:36:26.506612|UTC]	Comments database: "db/comments.db" found
+[16.09.24|14:36:26.631536|UTC]	Table: "comments" found in "db/comments.db"
+[16.09.24|14:36:26.727039|UTC]	Running on http://172.23.0.2:5000
+[16.09.24|15:56:52.645275|UTC]	Starting...
+[16.09.24|15:56:52.802252|UTC]	Werkzeug default logger is disabled
+[16.09.24|15:56:52.825391|UTC]	Custom logger is enabled
+[16.09.24|15:56:52.849556|UTC]	Debug mode: True
+[16.09.24|15:56:52.873381|UTC]	Name: flaskBlog
+[16.09.24|15:56:52.895832|UTC]	Version: 2.0.0
+[16.09.24|15:56:52.927515|UTC]	Host: 172.23.0.2
+[16.09.24|15:56:52.951624|UTC]	Port: 5000
+[16.09.24|15:56:52.975570|UTC]	Secret key: VTqnZrwmxBGGje7huOkigvR0LUcHGvbsx2sbuYGslPA
+[16.09.24|15:56:53.000732|UTC]	Session permanent: True
+[16.09.24|15:56:53.025156|UTC]	Root path: .
+[16.09.24|15:56:53.047703|UTC]	Log folder root: log/
+[16.09.24|15:56:53.071342|UTC]	Log file root: log/log.log
+[16.09.24|15:56:53.094738|UTC]	Log app file root: log/logApp.log
+[16.09.24|15:56:53.117770|UTC]	Log danger file root: log/logDanger.log
+[16.09.24|15:56:53.141788|UTC]	Log success file root: log/logSuccess.log
+[16.09.24|15:56:53.164376|UTC]	Log info file root: log/logInfo.log
+[16.09.24|15:56:53.186800|UTC]	Log warning file root: log/logWarning.log
+[16.09.24|15:56:53.209913|UTC]	Log in: True
+[16.09.24|15:56:53.231468|UTC]	Registration: True
+[16.09.24|15:56:53.254170|UTC]	UI: tailwindUI
+[16.09.24|15:56:53.279248|UTC]	Template folder: templates/tailwindUI
+[16.09.24|15:56:53.303430|UTC]	Static folder: static/tailwindUI
+[16.09.24|15:56:53.326900|UTC]	SMTP server: smtp.gmail.com
+[16.09.24|15:56:53.350919|UTC]	SMTP port: 587
+[16.09.24|15:56:53.373055|UTC]	SMTP mail: sumonpaul267@gmail.com
+[16.09.24|15:56:53.396559|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[16.09.24|15:56:53.420794|UTC]	reCAPTCHA is off
+[16.09.24|15:56:53.443767|UTC]	Default admin is on
+[16.09.24|15:56:53.468313|UTC]	Default admin username: admin
+[16.09.24|15:56:53.492503|UTC]	Default admin email: admin@flaskblog.com
+[16.09.24|15:56:53.514991|UTC]	Default admin password: admin
+[16.09.24|15:56:53.547538|UTC]	Default admin point: 0
+[16.09.24|15:56:53.571183|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[16.09.24|15:56:53.595370|UTC]	Database folder: "/db/" found
+[16.09.24|15:56:53.620524|UTC]	Users database: "db/users.db" found
+[16.09.24|15:56:53.699725|UTC]	Table: "users" found in "db/users.db"
+[16.09.24|15:56:53.724524|UTC]	Posts database: "db/posts.db" found
+[16.09.24|15:56:53.801188|UTC]	Table: "posts" found in "db/posts.db"
+[16.09.24|15:56:53.826956|UTC]	Comments database: "db/comments.db" found
+[16.09.24|15:56:53.908316|UTC]	Table: "comments" found in "db/comments.db"
+[16.09.24|15:56:53.953664|UTC]	Running on http://172.23.0.2:5000
+[16.09.24|15:56:54.383671|UTC]	Starting...
+[16.09.24|15:56:54.446667|UTC]	Werkzeug default logger is disabled
+[16.09.24|15:56:54.469838|UTC]	Custom logger is enabled
+[16.09.24|15:56:54.492879|UTC]	Debug mode: True
+[16.09.24|15:56:54.517349|UTC]	Name: flaskBlog
+[16.09.24|15:56:54.540934|UTC]	Version: 2.0.0
+[16.09.24|15:56:54.565601|UTC]	Host: 172.23.0.2
+[16.09.24|15:56:54.597826|UTC]	Port: 5000
+[16.09.24|15:56:54.625114|UTC]	Secret key: Vlj1LPj7KOi52iTR4Pyj6wWC67R88LQgA4gao7N1BDU
+[16.09.24|15:56:54.650271|UTC]	Session permanent: True
+[16.09.24|15:56:54.674650|UTC]	Root path: .
+[16.09.24|15:56:54.697536|UTC]	Log folder root: log/
+[16.09.24|15:56:54.720728|UTC]	Log file root: log/log.log
+[16.09.24|15:56:54.745515|UTC]	Log app file root: log/logApp.log
+[16.09.24|15:56:54.769082|UTC]	Log danger file root: log/logDanger.log
+[16.09.24|15:56:54.792378|UTC]	Log success file root: log/logSuccess.log
+[16.09.24|15:56:54.816826|UTC]	Log info file root: log/logInfo.log
+[16.09.24|15:56:54.839882|UTC]	Log warning file root: log/logWarning.log
+[16.09.24|15:56:54.862380|UTC]	Log in: True
+[16.09.24|15:56:54.886492|UTC]	Registration: True
+[16.09.24|15:56:54.910766|UTC]	UI: tailwindUI
+[16.09.24|15:56:54.934586|UTC]	Template folder: templates/tailwindUI
+[16.09.24|15:56:54.958917|UTC]	Static folder: static/tailwindUI
+[16.09.24|15:56:54.982187|UTC]	SMTP server: smtp.gmail.com
+[16.09.24|15:56:55.005170|UTC]	SMTP port: 587
+[16.09.24|15:56:55.029089|UTC]	SMTP mail: sumonpaul267@gmail.com
+[16.09.24|15:56:55.051980|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[16.09.24|15:56:55.074746|UTC]	reCAPTCHA is off
+[16.09.24|15:56:55.098454|UTC]	Default admin is on
+[16.09.24|15:56:55.121063|UTC]	Default admin username: admin
+[16.09.24|15:56:55.144329|UTC]	Default admin email: admin@flaskblog.com
+[16.09.24|15:56:55.168599|UTC]	Default admin password: admin
+[16.09.24|15:56:55.192369|UTC]	Default admin point: 0
+[16.09.24|15:56:55.225631|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[16.09.24|15:56:55.250673|UTC]	Database folder: "/db/" found
+[16.09.24|15:56:55.274264|UTC]	Users database: "db/users.db" found
+[16.09.24|15:56:55.345447|UTC]	Table: "users" found in "db/users.db"
+[16.09.24|15:56:55.369101|UTC]	Posts database: "db/posts.db" found
+[16.09.24|15:56:55.440089|UTC]	Table: "posts" found in "db/posts.db"
+[16.09.24|15:56:55.462775|UTC]	Comments database: "db/comments.db" found
+[16.09.24|15:56:55.533545|UTC]	Table: "comments" found in "db/comments.db"
+[16.09.24|15:56:55.575437|UTC]	Running on http://172.23.0.2:5000
+[16.09.24|17:13:05.743021|UTC]	Starting...
+[16.09.24|17:13:05.929848|UTC]	Werkzeug default logger is disabled
+[16.09.24|17:13:05.980457|UTC]	Custom logger is enabled
+[16.09.24|17:13:06.018245|UTC]	Debug mode: True
+[16.09.24|17:13:06.064253|UTC]	Name: flaskBlog
+[16.09.24|17:13:06.109616|UTC]	Version: 2.0.0
+[16.09.24|17:13:06.145722|UTC]	Host: 172.23.0.2
+[16.09.24|17:13:06.175425|UTC]	Port: 5000
+[16.09.24|17:13:06.212334|UTC]	Secret key: QoI0keIACsiSIt5oKwobG0DR32U0m0P4l5vQTa-TLnk
+[16.09.24|17:13:06.242210|UTC]	Session permanent: True
+[16.09.24|17:13:06.267014|UTC]	Root path: .
+[16.09.24|17:13:06.291316|UTC]	Log folder root: log/
+[16.09.24|17:13:06.336693|UTC]	Log file root: log/log.log
+[16.09.24|17:13:06.364043|UTC]	Log app file root: log/logApp.log
+[16.09.24|17:13:06.398204|UTC]	Log danger file root: log/logDanger.log
+[16.09.24|17:13:06.442970|UTC]	Log success file root: log/logSuccess.log
+[16.09.24|17:13:06.486818|UTC]	Log info file root: log/logInfo.log
+[16.09.24|17:13:06.520432|UTC]	Log warning file root: log/logWarning.log
+[16.09.24|17:13:06.550917|UTC]	Log in: True
+[16.09.24|17:13:06.590123|UTC]	Registration: True
+[16.09.24|17:13:06.635089|UTC]	UI: tailwindUI
+[16.09.24|17:13:06.691741|UTC]	Template folder: templates/tailwindUI
+[16.09.24|17:13:06.721630|UTC]	Static folder: static/tailwindUI
+[16.09.24|17:13:06.755678|UTC]	SMTP server: smtp.gmail.com
+[16.09.24|17:13:06.807026|UTC]	SMTP port: 587
+[16.09.24|17:13:06.835587|UTC]	SMTP mail: sumonpaul267@gmail.com
+[16.09.24|17:13:06.875332|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[16.09.24|17:13:06.920542|UTC]	reCAPTCHA is off
+[16.09.24|17:13:06.947055|UTC]	Default admin is on
+[16.09.24|17:13:06.970526|UTC]	Default admin username: admin
+[16.09.24|17:13:06.993915|UTC]	Default admin email: admin@flaskblog.com
+[16.09.24|17:13:07.021626|UTC]	Default admin password: admin
+[16.09.24|17:13:07.048699|UTC]	Default admin point: 0
+[16.09.24|17:13:07.094047|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[16.09.24|17:13:07.125882|UTC]	Database folder: "/db/" found
+[16.09.24|17:13:07.172423|UTC]	Users database: "db/users.db" found
+[16.09.24|17:13:07.332134|UTC]	Table: "users" found in "db/users.db"
+[16.09.24|17:13:07.388231|UTC]	Posts database: "db/posts.db" found
+[16.09.24|17:13:07.560033|UTC]	Table: "posts" found in "db/posts.db"
+[16.09.24|17:13:07.626832|UTC]	Comments database: "db/comments.db" found
+[16.09.24|17:13:07.806300|UTC]	Table: "comments" found in "db/comments.db"
+[16.09.24|17:13:08.436982|UTC]	Running on http://172.23.0.2:5000
+[16.09.24|17:13:09.583535|UTC]	Starting...
+[16.09.24|17:13:09.738529|UTC]	Werkzeug default logger is disabled
+[16.09.24|17:13:09.779710|UTC]	Custom logger is enabled
+[16.09.24|17:13:09.809082|UTC]	Debug mode: True
+[16.09.24|17:13:09.837814|UTC]	Name: flaskBlog
+[16.09.24|17:13:09.868309|UTC]	Version: 2.0.0
+[16.09.24|17:13:09.899651|UTC]	Host: 172.23.0.2
+[16.09.24|17:13:09.928963|UTC]	Port: 5000
+[16.09.24|17:13:09.959717|UTC]	Secret key: M7_I_54jMztCLgZLpbvvquXwsRr2m6HF6B_WFuQP6x4
+[16.09.24|17:13:09.987942|UTC]	Session permanent: True
+[16.09.24|17:13:10.017773|UTC]	Root path: .
+[16.09.24|17:13:10.048288|UTC]	Log folder root: log/
+[16.09.24|17:13:10.077200|UTC]	Log file root: log/log.log
+[16.09.24|17:13:10.106403|UTC]	Log app file root: log/logApp.log
+[16.09.24|17:13:10.137626|UTC]	Log danger file root: log/logDanger.log
+[16.09.24|17:13:10.169466|UTC]	Log success file root: log/logSuccess.log
+[16.09.24|17:13:10.200669|UTC]	Log info file root: log/logInfo.log
+[16.09.24|17:13:10.230931|UTC]	Log warning file root: log/logWarning.log
+[16.09.24|17:13:10.261535|UTC]	Log in: True
+[16.09.24|17:13:10.290588|UTC]	Registration: True
+[16.09.24|17:13:10.323260|UTC]	UI: tailwindUI
+[16.09.24|17:13:10.351416|UTC]	Template folder: templates/tailwindUI
+[16.09.24|17:13:10.379742|UTC]	Static folder: static/tailwindUI
+[16.09.24|17:13:10.409175|UTC]	SMTP server: smtp.gmail.com
+[16.09.24|17:13:10.437166|UTC]	SMTP port: 587
+[16.09.24|17:13:10.467813|UTC]	SMTP mail: sumonpaul267@gmail.com
+[16.09.24|17:13:10.498152|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[16.09.24|17:13:10.528933|UTC]	reCAPTCHA is off
+[16.09.24|17:13:10.566842|UTC]	Default admin is on
+[16.09.24|17:13:10.593909|UTC]	Default admin username: admin
+[16.09.24|17:13:10.623360|UTC]	Default admin email: admin@flaskblog.com
+[16.09.24|17:13:10.654043|UTC]	Default admin password: admin
+[16.09.24|17:13:10.683317|UTC]	Default admin point: 0
+[16.09.24|17:13:10.712917|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[16.09.24|17:13:10.744511|UTC]	Database folder: "/db/" found
+[16.09.24|17:13:10.774915|UTC]	Users database: "db/users.db" found
+[16.09.24|17:13:10.894084|UTC]	Table: "users" found in "db/users.db"
+[16.09.24|17:13:10.935173|UTC]	Posts database: "db/posts.db" found
+[16.09.24|17:13:11.040291|UTC]	Table: "posts" found in "db/posts.db"
+[16.09.24|17:13:11.067730|UTC]	Comments database: "db/comments.db" found
+[16.09.24|17:13:11.166592|UTC]	Table: "comments" found in "db/comments.db"
+[16.09.24|17:13:11.232045|UTC]	Running on http://172.23.0.2:5000
+[18.09.24|18:23:22.813632|UTC]	Starting...
+[18.09.24|18:23:23.106080|UTC]	Werkzeug default logger is disabled
+[18.09.24|18:23:23.147266|UTC]	Custom logger is enabled
+[18.09.24|18:23:23.191718|UTC]	Debug mode: True
+[18.09.24|18:23:23.247441|UTC]	Name: flaskBlog
+[18.09.24|18:23:23.297237|UTC]	Version: 2.0.0
+[18.09.24|18:23:23.348740|UTC]	Host: 172.23.0.2
+[18.09.24|18:23:23.381584|UTC]	Port: 5000
+[18.09.24|18:23:23.415772|UTC]	Secret key: 7YoLIZF5sAj0UoIJ2Xq4GpYf-BEevYl6WJJpom15USc
+[18.09.24|18:23:23.458054|UTC]	Session permanent: True
+[18.09.24|18:23:23.516441|UTC]	Root path: .
+[18.09.24|18:23:23.559946|UTC]	Log folder root: log/
+[18.09.24|18:23:23.603157|UTC]	Log file root: log/log.log
+[18.09.24|18:23:23.645784|UTC]	Log app file root: log/logApp.log
+[18.09.24|18:23:23.686387|UTC]	Log danger file root: log/logDanger.log
+[18.09.24|18:23:23.730835|UTC]	Log success file root: log/logSuccess.log
+[18.09.24|18:23:23.770915|UTC]	Log info file root: log/logInfo.log
+[18.09.24|18:23:23.808810|UTC]	Log warning file root: log/logWarning.log
+[18.09.24|18:23:23.856503|UTC]	Log in: True
+[18.09.24|18:23:23.901159|UTC]	Registration: True
+[18.09.24|18:23:23.945852|UTC]	UI: tailwindUI
+[18.09.24|18:23:23.984557|UTC]	Template folder: templates/tailwindUI
+[18.09.24|18:23:24.029388|UTC]	Static folder: static/tailwindUI
+[18.09.24|18:23:24.082249|UTC]	SMTP server: smtp.gmail.com
+[18.09.24|18:23:24.124405|UTC]	SMTP port: 587
+[18.09.24|18:23:24.168992|UTC]	SMTP mail: sumonpaul267@gmail.com
+[18.09.24|18:23:24.212209|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[18.09.24|18:23:24.257277|UTC]	reCAPTCHA is off
+[18.09.24|18:23:24.301885|UTC]	Default admin is on
+[18.09.24|18:23:24.346497|UTC]	Default admin username: admin
+[18.09.24|18:23:24.390663|UTC]	Default admin email: admin@flaskblog.com
+[18.09.24|18:23:24.433472|UTC]	Default admin password: admin
+[18.09.24|18:23:24.477789|UTC]	Default admin point: 0
+[18.09.24|18:23:24.524024|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[18.09.24|18:23:24.568515|UTC]	Database folder: "/db/" found
+[18.09.24|18:23:24.612207|UTC]	Users database: "db/users.db" found
+[18.09.24|18:23:24.768121|UTC]	Table: "users" found in "db/users.db"
+[18.09.24|18:23:24.815423|UTC]	Posts database: "db/posts.db" found
+[18.09.24|18:23:24.938310|UTC]	Table: "posts" found in "db/posts.db"
+[18.09.24|18:23:24.985903|UTC]	Comments database: "db/comments.db" found
+[18.09.24|18:23:25.130442|UTC]	Table: "comments" found in "db/comments.db"
+[18.09.24|18:23:25.197681|UTC]	Running on http://172.23.0.2:5000
+[18.09.24|18:23:26.242447|UTC]	Starting...
+[18.09.24|18:23:27.540620|UTC]	Werkzeug default logger is disabled
+[18.09.24|18:23:27.627308|UTC]	Custom logger is enabled
+[18.09.24|18:23:27.719850|UTC]	Debug mode: True
+[18.09.24|18:23:27.796997|UTC]	Name: flaskBlog
+[18.09.24|18:23:27.833323|UTC]	Version: 2.0.0
+[18.09.24|18:23:27.866787|UTC]	Host: 172.23.0.2
+[18.09.24|18:23:27.907596|UTC]	Port: 5000
+[18.09.24|18:23:27.979760|UTC]	Secret key: 53nPf8tU7rh0vFmSWJUMlvd9FvUZthuAW4SqCwRT69s
+[18.09.24|18:23:28.017443|UTC]	Session permanent: True
+[18.09.24|18:23:28.044110|UTC]	Root path: .
+[18.09.24|18:23:28.087926|UTC]	Log folder root: log/
+[18.09.24|18:23:28.122001|UTC]	Log file root: log/log.log
+[18.09.24|18:23:28.149239|UTC]	Log app file root: log/logApp.log
+[18.09.24|18:23:28.188715|UTC]	Log danger file root: log/logDanger.log
+[18.09.24|18:23:28.261002|UTC]	Log success file root: log/logSuccess.log
+[18.09.24|18:23:28.316856|UTC]	Log info file root: log/logInfo.log
+[18.09.24|18:23:28.353614|UTC]	Log warning file root: log/logWarning.log
+[18.09.24|18:23:28.387851|UTC]	Log in: True
+[18.09.24|18:23:28.424001|UTC]	Registration: True
+[18.09.24|18:23:28.470391|UTC]	UI: tailwindUI
+[18.09.24|18:23:28.517283|UTC]	Template folder: templates/tailwindUI
+[18.09.24|18:23:28.561229|UTC]	Static folder: static/tailwindUI
+[18.09.24|18:23:28.596843|UTC]	SMTP server: smtp.gmail.com
+[18.09.24|18:23:28.634180|UTC]	SMTP port: 587
+[18.09.24|18:23:28.675356|UTC]	SMTP mail: sumonpaul267@gmail.com
+[18.09.24|18:23:28.705344|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[18.09.24|18:23:28.743683|UTC]	reCAPTCHA is off
+[18.09.24|18:23:28.789328|UTC]	Default admin is on
+[18.09.24|18:23:28.832165|UTC]	Default admin username: admin
+[18.09.24|18:23:28.876611|UTC]	Default admin email: admin@flaskblog.com
+[18.09.24|18:23:28.922476|UTC]	Default admin password: admin
+[18.09.24|18:23:28.961889|UTC]	Default admin point: 0
+[18.09.24|18:23:29.008925|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[18.09.24|18:23:29.045713|UTC]	Database folder: "/db/" found
+[18.09.24|18:23:29.089403|UTC]	Users database: "db/users.db" found
+[18.09.24|18:23:29.223632|UTC]	Table: "users" found in "db/users.db"
+[18.09.24|18:23:29.274465|UTC]	Posts database: "db/posts.db" found
+[18.09.24|18:23:29.400263|UTC]	Table: "posts" found in "db/posts.db"
+[18.09.24|18:23:29.431140|UTC]	Comments database: "db/comments.db" found
+[18.09.24|18:23:29.530472|UTC]	Table: "comments" found in "db/comments.db"
+[18.09.24|18:23:29.582608|UTC]	Running on http://172.23.0.2:5000
+[19.09.24|02:25:21.072190|UTC]	Starting...
+[19.09.24|02:25:21.252412|UTC]	Werkzeug default logger is disabled
+[19.09.24|02:25:21.285367|UTC]	Custom logger is enabled
+[19.09.24|02:25:21.317994|UTC]	Debug mode: True
+[19.09.24|02:25:21.352906|UTC]	Name: flaskBlog
+[19.09.24|02:25:21.394736|UTC]	Version: 2.0.0
+[19.09.24|02:25:21.428018|UTC]	Host: 172.23.0.2
+[19.09.24|02:25:21.462116|UTC]	Port: 5000
+[19.09.24|02:25:21.490689|UTC]	Secret key: JumBwHiHTYKORXQyGDMAD6i_y9K9Y47N7Y994beGxY8
+[19.09.24|02:25:21.528300|UTC]	Session permanent: True
+[19.09.24|02:25:21.560770|UTC]	Root path: .
+[19.09.24|02:25:21.591657|UTC]	Log folder root: log/
+[19.09.24|02:25:21.624145|UTC]	Log file root: log/log.log
+[19.09.24|02:25:21.651694|UTC]	Log app file root: log/logApp.log
+[19.09.24|02:25:21.684085|UTC]	Log danger file root: log/logDanger.log
+[19.09.24|02:25:21.716871|UTC]	Log success file root: log/logSuccess.log
+[19.09.24|02:25:21.749502|UTC]	Log info file root: log/logInfo.log
+[19.09.24|02:25:21.782103|UTC]	Log warning file root: log/logWarning.log
+[19.09.24|02:25:21.814739|UTC]	Log in: True
+[19.09.24|02:25:21.857033|UTC]	Registration: True
+[19.09.24|02:25:21.880746|UTC]	UI: tailwindUI
+[19.09.24|02:25:21.907425|UTC]	Template folder: templates/tailwindUI
+[19.09.24|02:25:21.939723|UTC]	Static folder: static/tailwindUI
+[19.09.24|02:25:21.969091|UTC]	SMTP server: smtp.gmail.com
+[19.09.24|02:25:21.993703|UTC]	SMTP port: 587
+[19.09.24|02:25:22.021999|UTC]	SMTP mail: sumonpaul267@gmail.com
+[19.09.24|02:25:22.054214|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[19.09.24|02:25:22.086306|UTC]	reCAPTCHA is off
+[19.09.24|02:25:22.117377|UTC]	Default admin is on
+[19.09.24|02:25:22.150011|UTC]	Default admin username: admin
+[19.09.24|02:25:22.203937|UTC]	Default admin email: admin@flaskblog.com
+[19.09.24|02:25:22.239573|UTC]	Default admin password: admin
+[19.09.24|02:25:22.290694|UTC]	Default admin point: 0
+[19.09.24|02:25:22.336390|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[19.09.24|02:25:22.389849|UTC]	Database folder: "/db/" found
+[19.09.24|02:25:22.466359|UTC]	Users database: "db/users.db" found
+[19.09.24|02:25:22.571226|UTC]	Table: "users" found in "db/users.db"
+[19.09.24|02:25:22.630898|UTC]	Posts database: "db/posts.db" found
+[19.09.24|02:25:22.769768|UTC]	Table: "posts" found in "db/posts.db"
+[19.09.24|02:25:22.825214|UTC]	Comments database: "db/comments.db" found
+[19.09.24|02:25:23.014983|UTC]	Table: "comments" found in "db/comments.db"
+[19.09.24|02:25:23.101521|UTC]	Running on http://172.23.0.2:5000
+[19.09.24|02:25:24.258169|UTC]	Starting...
+[19.09.24|02:25:25.426355|UTC]	Werkzeug default logger is disabled
+[19.09.24|02:25:25.454218|UTC]	Custom logger is enabled
+[19.09.24|02:25:25.484859|UTC]	Debug mode: True
+[19.09.24|02:25:25.528175|UTC]	Name: flaskBlog
+[19.09.24|02:25:25.557919|UTC]	Version: 2.0.0
+[19.09.24|02:25:25.601057|UTC]	Host: 172.23.0.2
+[19.09.24|02:25:25.630610|UTC]	Port: 5000
+[19.09.24|02:25:25.672400|UTC]	Secret key: xncSdTjbd49YhyPzStLUwx2X0EcgLeQ2E-2O7Rc_s2I
+[19.09.24|02:25:25.702297|UTC]	Session permanent: True
+[19.09.24|02:25:25.741113|UTC]	Root path: .
+[19.09.24|02:25:25.776464|UTC]	Log folder root: log/
+[19.09.24|02:25:25.806956|UTC]	Log file root: log/log.log
+[19.09.24|02:25:25.836440|UTC]	Log app file root: log/logApp.log
+[19.09.24|02:25:25.865465|UTC]	Log danger file root: log/logDanger.log
+[19.09.24|02:25:25.895782|UTC]	Log success file root: log/logSuccess.log
+[19.09.24|02:25:25.924504|UTC]	Log info file root: log/logInfo.log
+[19.09.24|02:25:25.953746|UTC]	Log warning file root: log/logWarning.log
+[19.09.24|02:25:25.980830|UTC]	Log in: True
+[19.09.24|02:25:26.009807|UTC]	Registration: True
+[19.09.24|02:25:26.038552|UTC]	UI: tailwindUI
+[19.09.24|02:25:26.069196|UTC]	Template folder: templates/tailwindUI
+[19.09.24|02:25:26.100602|UTC]	Static folder: static/tailwindUI
+[19.09.24|02:25:26.128152|UTC]	SMTP server: smtp.gmail.com
+[19.09.24|02:25:26.166797|UTC]	SMTP port: 587
+[19.09.24|02:25:26.196227|UTC]	SMTP mail: sumonpaul267@gmail.com
+[19.09.24|02:25:26.226429|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[19.09.24|02:25:26.258558|UTC]	reCAPTCHA is off
+[19.09.24|02:25:26.287382|UTC]	Default admin is on
+[19.09.24|02:25:26.314971|UTC]	Default admin username: admin
+[19.09.24|02:25:26.347038|UTC]	Default admin email: admin@flaskblog.com
+[19.09.24|02:25:26.375993|UTC]	Default admin password: admin
+[19.09.24|02:25:26.405907|UTC]	Default admin point: 0
+[19.09.24|02:25:26.435728|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[19.09.24|02:25:26.467082|UTC]	Database folder: "/db/" found
+[19.09.24|02:25:26.498130|UTC]	Users database: "db/users.db" found
+[19.09.24|02:25:26.596308|UTC]	Table: "users" found in "db/users.db"
+[19.09.24|02:25:26.625206|UTC]	Posts database: "db/posts.db" found
+[19.09.24|02:25:26.710772|UTC]	Table: "posts" found in "db/posts.db"
+[19.09.24|02:25:26.738661|UTC]	Comments database: "db/comments.db" found
+[19.09.24|02:25:26.830700|UTC]	Table: "comments" found in "db/comments.db"
+[19.09.24|02:25:26.899718|UTC]	Running on http://172.23.0.2:5000
+[20.09.24|10:54:19.410944|UTC]	Starting...
+[20.09.24|10:54:19.678959|UTC]	Werkzeug default logger is disabled
+[20.09.24|10:54:19.712199|UTC]	Custom logger is enabled
+[20.09.24|10:54:19.743551|UTC]	Debug mode: True
+[20.09.24|10:54:19.775641|UTC]	Name: flaskBlog
+[20.09.24|10:54:19.808086|UTC]	Version: 2.0.0
+[20.09.24|10:54:19.839067|UTC]	Host: 172.23.0.2
+[20.09.24|10:54:19.873969|UTC]	Port: 5000
+[20.09.24|10:54:19.911842|UTC]	Secret key: tPywWzWY6ijcoTbXFaqMB30_gwOEdkAGTXJzUQAYcWg
+[20.09.24|10:54:19.943764|UTC]	Session permanent: True
+[20.09.24|10:54:19.976179|UTC]	Root path: .
+[20.09.24|10:54:20.003490|UTC]	Log folder root: log/
+[20.09.24|10:54:20.027343|UTC]	Log file root: log/log.log
+[20.09.24|10:54:20.054259|UTC]	Log app file root: log/logApp.log
+[20.09.24|10:54:20.087450|UTC]	Log danger file root: log/logDanger.log
+[20.09.24|10:54:20.115025|UTC]	Log success file root: log/logSuccess.log
+[20.09.24|10:54:20.145647|UTC]	Log info file root: log/logInfo.log
+[20.09.24|10:54:20.178631|UTC]	Log warning file root: log/logWarning.log
+[20.09.24|10:54:20.220602|UTC]	Log in: True
+[20.09.24|10:54:20.253309|UTC]	Registration: True
+[20.09.24|10:54:20.286369|UTC]	UI: tailwindUI
+[20.09.24|10:54:20.326681|UTC]	Template folder: templates/tailwindUI
+[20.09.24|10:54:20.364609|UTC]	Static folder: static/tailwindUI
+[20.09.24|10:54:20.406217|UTC]	SMTP server: smtp.gmail.com
+[20.09.24|10:54:20.457266|UTC]	SMTP port: 587
+[20.09.24|10:54:20.515296|UTC]	SMTP mail: sumonpaul267@gmail.com
+[20.09.24|10:54:20.569352|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[20.09.24|10:54:20.592642|UTC]	reCAPTCHA is off
+[20.09.24|10:54:20.625529|UTC]	Default admin is on
+[20.09.24|10:54:20.668228|UTC]	Default admin username: admin
+[20.09.24|10:54:20.693917|UTC]	Default admin email: admin@flaskblog.com
+[20.09.24|10:54:20.729056|UTC]	Default admin password: admin
+[20.09.24|10:54:20.764653|UTC]	Default admin point: 0
+[20.09.24|10:54:20.810680|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[20.09.24|10:54:20.852999|UTC]	Database folder: "/db/" found
+[20.09.24|10:54:20.899991|UTC]	Users database: "db/users.db" found
+[20.09.24|10:54:21.011312|UTC]	Table: "users" found in "db/users.db"
+[20.09.24|10:54:21.059374|UTC]	Posts database: "db/posts.db" found
+[20.09.24|10:54:21.214256|UTC]	Table: "posts" found in "db/posts.db"
+[20.09.24|10:54:21.275220|UTC]	Comments database: "db/comments.db" found
+[20.09.24|10:54:21.392586|UTC]	Table: "comments" found in "db/comments.db"
+[20.09.24|10:54:21.444720|UTC]	Running on http://172.23.0.2:5000
+[20.09.24|10:54:22.409028|UTC]	Starting...
+[20.09.24|10:54:23.652919|UTC]	Werkzeug default logger is disabled
+[20.09.24|10:54:23.743093|UTC]	Custom logger is enabled
+[20.09.24|10:54:23.791530|UTC]	Debug mode: True
+[20.09.24|10:54:23.835690|UTC]	Name: flaskBlog
+[20.09.24|10:54:23.888293|UTC]	Version: 2.0.0
+[20.09.24|10:54:23.928792|UTC]	Host: 172.23.0.2
+[20.09.24|10:54:23.964928|UTC]	Port: 5000
+[20.09.24|10:54:24.017624|UTC]	Secret key: Nd2HuuAUz41guQV2MVIH3W-offN1toJVP1-oe2diWbA
+[20.09.24|10:54:24.060450|UTC]	Session permanent: True
+[20.09.24|10:54:24.100487|UTC]	Root path: .
+[20.09.24|10:54:24.141056|UTC]	Log folder root: log/
+[20.09.24|10:54:24.184063|UTC]	Log file root: log/log.log
+[20.09.24|10:54:24.210585|UTC]	Log app file root: log/logApp.log
+[20.09.24|10:54:24.247194|UTC]	Log danger file root: log/logDanger.log
+[20.09.24|10:54:24.277473|UTC]	Log success file root: log/logSuccess.log
+[20.09.24|10:54:24.308332|UTC]	Log info file root: log/logInfo.log
+[20.09.24|10:54:24.338539|UTC]	Log warning file root: log/logWarning.log
+[20.09.24|10:54:24.369909|UTC]	Log in: True
+[20.09.24|10:54:24.399636|UTC]	Registration: True
+[20.09.24|10:54:24.429489|UTC]	UI: tailwindUI
+[20.09.24|10:54:24.456951|UTC]	Template folder: templates/tailwindUI
+[20.09.24|10:54:24.487165|UTC]	Static folder: static/tailwindUI
+[20.09.24|10:54:24.517256|UTC]	SMTP server: smtp.gmail.com
+[20.09.24|10:54:24.548604|UTC]	SMTP port: 587
+[20.09.24|10:54:24.577837|UTC]	SMTP mail: sumonpaul267@gmail.com
+[20.09.24|10:54:24.615781|UTC]	SMTP password: cjvl hcee wpsg nyhj
+[20.09.24|10:54:24.648294|UTC]	reCAPTCHA is off
+[20.09.24|10:54:24.677389|UTC]	Default admin is on
+[20.09.24|10:54:24.707727|UTC]	Default admin username: admin
+[20.09.24|10:54:24.738552|UTC]	Default admin email: admin@flaskblog.com
+[20.09.24|10:54:24.769880|UTC]	Default admin password: admin
+[20.09.24|10:54:24.806411|UTC]	Default admin point: 0
+[20.09.24|10:54:24.836383|UTC]	Default admin profile picture: https://api.dicebear.com/7.x/identicon/svg?seed=admin&radius=10
+[20.09.24|10:54:24.865315|UTC]	Database folder: "/db/" found
+[20.09.24|10:54:24.895077|UTC]	Users database: "db/users.db" found
+[20.09.24|10:54:24.987340|UTC]	Table: "users" found in "db/users.db"
+[20.09.24|10:54:25.015202|UTC]	Posts database: "db/posts.db" found
+[20.09.24|10:54:25.115977|UTC]	Table: "posts" found in "db/posts.db"
+[20.09.24|10:54:25.148144|UTC]	Comments database: "db/comments.db" found
+[20.09.24|10:54:25.252533|UTC]	Table: "comments" found in "db/comments.db"
+[20.09.24|10:54:25.311735|UTC]	Running on http://172.23.0.2:5000
