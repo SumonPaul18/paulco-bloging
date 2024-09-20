@@ -3,15 +3,13 @@
 
 # [FlaskBlog](https://blog.iotlogy.xyz)
 
-**English** | [Türkçe](docs/readme_tr.md) | [Russian](docs/readme_ru.md)
-
 📜 **Simple blog app built with Flask.**
 
 [📧 Contact](mailto:sumonpaul267@gmail.com)<br/>
 [👨🏻‍💻 Sumon Paul](https://skpaul.info)
 
-[📸 Images](https://github.com/DogukanUrker/flaskBlog/tree/master/images)<br/>
-[📽️ Preview Video](https://youtu.be/WyIpAlSp2RM)<br/>
+[📸 Images](https://github.com/SumonPaul18/paulco-bloging/tree/main/images)<br/>
+[📽️ Youtube Channel:](https://www.youtube.com/@cloudengineer187)<br/>
 
 [🆕 Changelog V2](docs/version2Changelog.md)
 
@@ -129,11 +127,11 @@
 
 Download source code from Github 💾
 ####
-    git clone https://github.com/SumonPaul18/flask-blog-site-01.git
+    git clone https://github.com/SumonPaul18/paulco-bloging.git
 
 Go to directory 📁
 ####
-    cd flask-blog-site-01
+    cd paulco-bloging
 
 install requirements.txt 🔽
 ####
