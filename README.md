@@ -8,7 +8,7 @@
 
 📜 **Simple blog app built with Flask.**
 
-[📧 Contact](mailto:dogukanurker@icloud.com)<br/>
+[📧 Contact](mailto:sumonpaul267@gmail.com)<br/>
 [👨🏻‍💻 Sumon Paul](https://skpaul.info)
 
 [📸 Images](https://github.com/DogukanUrker/flaskBlog/tree/master/images)<br/>
