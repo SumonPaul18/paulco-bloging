@@ -1,8 +1,7 @@
-###### <sub> This project needs a ⭐️ from you. Don't forget to leave a star ⭐️. <sub/>
 
 ![appLight](/images/Light.png)
 
-# [FlaskBlog](https://dogukanurker.com/flaskblog)
+# [FlaskBlog](https://blog.iotlogy.xyz)
 
 **English** | [Türkçe](docs/readme_tr.md) | [Russian](docs/readme_ru.md)
 
@@ -15,6 +14,8 @@
 [📽️ Preview Video](https://youtu.be/WyIpAlSp2RM)<br/>
 
 [🆕 Changelog V2](docs/version2Changelog.md)
+
+###### <sub> This project needs a ⭐️ from you. Don't forget to leave a star ⭐️. <sub/>
 
 ## 📄 Table of Contents
 
